@@ -144,6 +144,42 @@ https://hwapi.yntv.net/62hdvf/utrat7.m3u8
 
 #EXTINF:-1,贵州七星关电视台https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 
+#EXTINF:-1,四川昭化综合频道http://live.zhgbtv.cn:3100/hls/kwqtkbbi/index.m3u8
+
+#EXTINF:-1,四川彭山综合频道http://m3u8tv.psrm.net:80/nmip-media/channellive/channel100740/playlist.m3u8
+
+#EXTINF:-1,四川西昌综合频道http://xcfb.screx.com.cn:18085/hlsnew1/channel1.m3u8
+
+#EXTINF:-1,四川夹江新闻综合rtmp://tv.jjrm.org.cn/channellive/ch1
+
+#EXTINF:-1,四川井研新闻综合http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
+
+#EXTINF:-1,四川犍为新闻综合http://r8.vzan.com:80/v/slowlive_230559508552681163.m3u8
+
+#EXTINF:-1,四川沙湾综合频道http://tvfile.swrmt.com:80/nmip-media/channellive/channel100064/playlist.m3u8
+
+#EXTINF:-1,四川峨眉山综合频道https://embl.emsyd.jrem.cn:443/aaa/003.m3u8?auth_key=1669861584-0-0-f96c19f553b976f1f9800423b10baa5b
+
+#EXTINF:-1,四川五通桥综合频道https://play.wtqrm.com:443/qtwz/wtqzb.m3u8?auth_key=1663323505-0-0-01843919c015a267038d6e00fd1e1519
+
+#EXTINF:-1,四川大英新闻综合http://zb.dysm99.com:80/live/26690_417cfae3026a11ee89e7b8599faecf3c.m3u8
+
+#EXTINF:-1,四川科教http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+
+#EXTINF:-1,四川巴中综合
+http://ocj2.kksmg.com/ocj1/ocj1.m3u8
+
+#EXTINF:-1,四川康定http://kdfile.ganzitv.com/nmip-media/channellive/channel100663/playlist.m3u8
+
+#EXTINF:-1,四川康定http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8?
+
+#EXTINF:-1,四川泸州新闻http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
+
+#EXTINF:-1,四川营山电视台http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
+
+#EXTINF:-1,四川营山电视台http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
+
+#EXTINF:-1,四川达州新闻http://tv.drs.dzxw.net:80/chan
 广州
 
 #EXTINF:-1,广州综合https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
