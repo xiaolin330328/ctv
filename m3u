@@ -16,7 +16,8 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 
 
-#EXTINF:-1
+#EXTINF:-1,龙翔电影台
+http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
 
 
 #EXTINF:-1,龙翔电影台
