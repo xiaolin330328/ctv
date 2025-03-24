@@ -13,6 +13,13 @@ https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 http://110.52.8.56:808/hls/18/index.m3u8
 #EXTINF:-1,浙江钱江      
 #EXTINF:-1,浙江上虞新商都http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+#EXTINF:-1,浙江文成综合频道http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+
+#EXTINF:-1,浙江萧山新闻综合http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
+
+
+#EXTINF:-1,浙江上虞频道http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+
 
 #EXTINF:-1,浙江龙游新闻综合http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
 
