@@ -4,7 +4,9 @@ http://58.213.65.146:352/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://goo.bkpcp.top/mg/cctv1
+http://goo.bkpcp.top/mg/cctv1  
+#EXTINF:-1,
+https://tv.cdn5.rr.nu/live/hoy/stream.m3u8
 #EXTINF:-1,东森电影
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvmovie/playlist.m3u8 
 #EXTINF:-1,浙江卫视
