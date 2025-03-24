@@ -55,7 +55,9 @@ http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct
 #EXTINF:-1,云南都市
 https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 #EXTINF:-1,云南娱乐
-https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8          
+https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8      
+#EXTINF:-1云南影视
+https://hwapi.yntv.net/62hdvf/utrat7.m3u8    
 #EXTINF:-1,浙江绍兴公共频道
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed        
 #EXTINF:-1,浙江上虞新闻综合
