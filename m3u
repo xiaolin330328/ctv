@@ -44,3 +44,20 @@ http://kkk.jjjj.jiduo.me/
 云南影视,https://hwapi.yntv.net/62hdvf/utrat7.m3u8
 云南康旅,https://hwapi.yntv.net/62hdvf/227q43.m3u8
 云南少儿,https://hwapi.yntv.net/62hdvf/9ojsty.m3u8?tk=f1fc7923c7edc08961c098b50b144f8b&t=1741416355
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="CCTV1" tvg-logo="https://livecdn.zbds.top/logo/CCTV1.png" group-title="央视频道", CCTV1
+http://home.kuaidi521.com:35455/gaoma/cctv1.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-id="CCTV2" tvg-logo="https://livecdn.zbds.top/logo/CCTV2.png" group-title="央视频道", CCTV2
+http://jf.jxx2023.work:40446/tsfile/live/0002_1.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-id="23" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV3.png" group-title="央视频道", CCTV3
+http://227w9f5104.zicp.fun:35455/gaoma/cctv3.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-id="CCTV4" tvg-logo="https://livecdn.zbds.top/logo/CCTV4.png" group-title="央视频道", CCTV4
+http://112.81.218.254:35455/gaoma/cctv4.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-id="CCTV5" tvg-logo="https://livecdn.zbds.top/logo/CCTV5.png" group-title="央视频道", CCTV5
+http://227w9f5104.zicp.fun:35455/gaoma/cctv5.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-id="CCTV5+" tvg-logo="https://livecdn.zbds.top/logo/CCTV5+.png" group-title="央视频道", CCTV5+
+http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-id="CCTV6" tvg-logo="https://livecdn.zbds.top/logo/CCTV6.png" group-title="央视频道", CCTV6
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="31" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV7.png" group-title="央视频道", CCTV7
+http://
