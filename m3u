@@ -25,7 +25,18 @@ http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct
 https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 #EXTINF:-1,云南娱乐
 https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
-#EXTINF:-1,云南影视             
+#EXTINF:-1,云南影视            
+#EXTINF:-1,浙江绍兴公共频道http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
+
+#EXTINF:-1,浙江绍兴公共频道http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+
+#EXTINF:-1,浙江义乌新闻综合https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahB
+
+#EXTINF:-1,浙江绍兴文化影院http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+
+#EXTINF:-1,浙江杭州余杭综http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+
+
 #EXTINF:-1,浙江丽水云和综合http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 
 #EXTINF:-1,浙江丽水庆元综合http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
