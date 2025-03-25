@@ -13,7 +13,7 @@ http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvmovie/playli
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8 
 #EXTINF:-1,浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8 
-EXTINF:-1,浙江经视频道
+#EXTINF:-1,浙江经视频道
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1,浙江教育科技频道
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
