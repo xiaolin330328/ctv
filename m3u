@@ -440,7 +440,6 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/1000000005000265019/1.m3u8?chan
 #EXTINF:-1 group-title="卫视频道" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png",东方卫视
 #EXTINF:-1,云南美丽云南
 https://www.ynbit.com:1937/cyds-mlyn/livestream/playlist.m3u8?zyund
-
 #EXTINF:-1,云南麻栗坡
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
 #EXTINF:-1,云南麻栗坡
@@ -483,9 +482,9 @@ https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?
 https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=d5a1fe0898512f4a1d513bc0f9c5b751&txTime=771E8800
 #EXTINF:-1,湖南卫视
 http://110.52.8.56:808/hls/18/index.m3u8
-EXTINF:-1,金鹰
+EXTINF:-1,湖南金鹰
 http://110.52.8.56:808/hls/20/index.m3u8 
-#EXTINF:-1,少儿
+#EXTINF:-1,湖南少儿
 http://110.52.8.56:808/hls/21/index.m3u8
 #EXTINF:-1,湖南国际
 http://110.52.8.56:808/hls/22/index.m3u8
