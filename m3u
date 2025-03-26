@@ -107,8 +107,9 @@ http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&
 http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
 #EXTINF:-1,AXNTAIWAN 
 http://198.16.100.186:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
-#EXTINF:-1,东森财经
+#EXTINF:-1,八大第一台
 http://198.16.100.186:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
+#EXTINF:-1,东森财经
 http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
 #EXTINF:-1,中视新闻 
 http://50.7.234.10:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
@@ -143,7 +144,8 @@ http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=mc42afe745533&ct=11595591&ts
 #EXTINF:-1,TVBS新闻 
 http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 #EXTINF:-1,TVBSNEWS
-http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2eeXTINF:-1,hoy77
+http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
+XTINF:-1,hoy77
 https://tv.cdn5.rr.nu/live/hoy/stream.m3u8
 #EXTINF:-1,东森电影
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvmovie/playlist.m3u8 
@@ -213,30 +215,31 @@ http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&t
 http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
 #EXTINF:-1,TVB星河台 
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-tvbs,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+#EXTINF:-1,tvbs
+http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 #EXTINF:-1,武功台
 http://v2hcdn.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w1001.m3u8
-#EXTINF:-1,杭州综合,
+#EXTINF:-1,杭州综合
 https://l.cztvcloud.com/channels/lantian/sxchannel01/1080p.m3u8
-#EXTINF:-1,宁波新闻综合,
+#EXTINF:-1,宁波新闻综合
 https://l.cztvcloud.com/channels/lantian/sxchannel02/1080p.m3u8
-#EXTINF:-1,温州新闻综合,
+#EXTINF:-1,温州新闻综合
 https://l.cztvcloud.com/channels/lantian/sxchannel03/1080p.m3u8
-#EXTINF:-1,绍兴新闻综合,
+#EXTINF:-1,绍兴新闻综合
 https://l.cztvcloud.com/channels/lantian/sxchannel04/1080p.m3u8
-#EXTINF:-1,湖州新闻综合,
+#EXTINF:-1,湖州新闻综合
 https://l.cztvcloud.com/channels/lantian/sxchannel05/1080p.m3u8
-#EXTINF:-1,嘉兴新闻综合,
+#EXTINF:-1,嘉兴新闻综合
 https://l.cztvcloud.com/channels/lantian/sxchannel06/1080p.m3u8
-#EXTINF:-1,金华新闻综合,
+#EXTINF:-1,金华新闻综合
 https://l.cztvcloud.com/channels/lantian/sxchannel07/1080p.m3u8
-#EXTINF:-1,衢州新闻综合,
+#EXTINF:-1,衢州新闻综合
 https://l.cztvcloud.com/channels/lantian/sxchannel08/1080p.m3u8
-#EXTINF:-1,丽水新闻综合,
+#EXTINF:-1,丽水新闻综合
 https://l.cztvcloud.com/channels/lantian/sxchannel09/1080p.m3u8
-#EXTINF:-1,台州新闻综合,
+#EXTINF:-1,台州新闻综合
 https://l.cztvcloud.com/channels/lantian/sxchannel10/1080p.m3u8
-#EXTINF:-1,舟山新闻综合,
+#EXTINF:-1,舟山新闻综合
 https://l.cztvcloud.com/channels/lantian/sxchannel11/1080p.m3u8
 #EXTINF:-1,浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8 
@@ -471,7 +474,8 @@ http://xcfb.screx.com.cn:18085/hlsnew1/channel1.m3u8
 rtmp://tv.jjrm.org.cn/channellive/ch1
 #EXTINF:-1,四川井研新闻综合
 http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
-#EXTINF:-1,四川犍为新闻综http://r8.vzan.com:80/v/slowlive_230559508552681163.m3u8
+#EXTINF:-1,四川犍为新闻综
+http://r8.vzan.com:80/v/slowlive_230559508552681163.m3u8
 #EXTINF:-1,四川沙湾综合频道
 http://tvfile.swrmt.com:80/nmip-media/channellive/channel100064/playlist.m3u8
 #EXTINF:-1,四川
@@ -508,7 +512,8 @@ http://8.137.59.151:3000/guangdong/foshan.php?id=fsgg
 https://stream.icelook.cn:443/790d0a0f38c07f31/6728300245723120644_1609747594.m3u8?auth_key=1893456000-0-0-0cc4be5653a88cdb748a4543643d0fdb
 #EXTINF:-1,山西潞城新闻综合
 http://59.48.42.6:62204/lucheng.m3u8
-#EXTINF:-1,山西潞城新闻综合http://59.48.42.6:62204/lucheng.m3u8?zshanxd
+#EXTINF:-1,山西潞城新闻综合
+http://59.48.42.6:62204/lucheng.m3u8?zshanxd
 #EXTINF:-1,山西古县综合
 https://l2fpdktp.live.sxmty.com:443/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8
 #EXTINF:-1,山西古县综合
@@ -605,18 +610,24 @@ http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 #EXTINF:-1,八度空间
 http://php.jdshipin.com:8880/smt.php?id=TV8
-Astro AOD,http://php.jdshipin.com:8880/smt.php?id=Aodhd
+#EXTINF:-1,Astro AOD
+http://php.jdshipin.com:8880/smt.php?id=Aodhd
+#EXTINF:-1,
 Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
 #EXTINF:-1,爱奇艺
 http://php.jdshipin.com:8880/smt.php?id=Qiyi
-Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
+#EXTINF:-1,Astro QJ
+http://php.jdshipin.com:8880/smt.php?id=Quanjia
 #EXTINF:-1,Astro欢喜台
 http://php.jdshipin.com:8880/smt.php?id=Hu
 #EXTINF:-1,龙翔电影台
 http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
-#EXTINF:-1,龙翔电影台
-http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
-美亚电影台http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739     翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_tw华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+#EXTINF:-1,美亚电影台
+http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739  
+#EXTINF:-1,翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_tw
+#EXTINF:-1,华丽翡翠台
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 #EXTINF:-1,凤凰香港
 http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 #EXTINF:-1,安徽｜经济生活
@@ -638,49 +649,13 @@ https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808
 #EXTINF:-1,天映频道
 http://php.jdshipin.com:8880/smt.php?id=Celestial
 #EXTINF:-1,明珠台
-http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-#EXTINF:-1,美亚电影台
-http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739     
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn   
 #EXTINF:-1,tvb星河
 http://php.jdshipin.com:8880/smt.php?id=j2_twn
 #EXTINF:-1,天映频道
 http://php.jdshipin.com:8880/smt.php?id=Celestial
 #EXTINF:-1,天映经典
 http://php.jdshipin.com:8880/smt.php?id=Celestial2
-#EXTINF:-1,江苏卫视
-group-title="卫视频道" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png",江苏卫视
-http://[2409:8087:5e08:24::11]:6610/000000001000/1000000005000265030/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265030&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png",江西卫视
-http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000268001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268001&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png",江西卫视
-http://[2409:8087:5e08:24::11]:6610/000000001000/1000000005000265032/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265032&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png",辽宁卫视
-http://[2409:8087:5e08:24::11]:6610/000000001000/5000000004000011671/1.m3u8?channel-id=bestzb&Contentid=5000000004000011671&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png",辽宁卫视
-http://[2409:8087:5e08:24::11]:6610/000000001000/1000000005000265022/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265022&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png",青海卫视
-http://[2409:8087:5e08:24::11]:6610/000000001000/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png",山东卫视
-http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000016568/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016568&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png",山东卫视
-http://[2409:8087:5e08:24::11]:6610/000000001000/6000000001000004134/1.m3u8?channel-id=wasusyt&Contentid=6000000001000004134&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png",山东卫视
-http://[2409:8087:5e08:24::11]:6610/000000001000/1000000005000265019/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265019&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png",东方卫视
-#EXTINF:-1,云南麻栗坡
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
-#EXTINF:-1,云南麻栗坡
-https://m3u8.channel.wsrtv.com.cn/nmip-media/channellive/channel107237/playlist.m3u8
-#EXTINF:-1,云南麻栗坡
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8?zyund
-#EXTINF:-1,福建建宁综合频道
-https://p2.weizan.cn/2144741973/075444991326676404/live.m3u8?zfud
-#EXTINF:-1,福建漳浦综合
-http://220.161.87.62:8090/hls/0/index.m3u8?zfud
-#EXTINF:-1,福建三明新闻综合
-http://fjnhdb.chinashadt.com:2036/live/stream:nh2.stream/playlist.m3u8?zfud
-#EXTINF:-1,福建宁化电视一套
-http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8?fujian
 #EXTINF:-1,湖北荆门新闻
 http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 #EXTINF:-1,湖北荆门教育
