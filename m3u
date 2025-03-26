@@ -8,45 +8,45 @@ http://goo.bkpcp.top/mg/cctv1
 
 #E#EXTINF:-1,中天新闻 
 http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
-#EXTINF:-1 東森新聞 
+#EXTINF:-1, 東森新聞 
 http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
-#EXTINF:-1 AXNTAIWAN 
+#EXTINF:-1,AXNTAIWAN 
 http://198.16.100.186:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
 八大第一 
-#EXTINF:-1 http://198.16.100.186:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
-东森财经 
-http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
-#EXTINF:-1 中视新闻 
-http://50.7.234.10:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
-#EXTINF:-1 台视新闻 
-http://50.7.234.10:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
-#EXTINF:-1 八大戏剧 
-http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e
-#EXTINF:-1 台视新闻 
-http://50.7.234.10:8278/ttvnews_twn/playlist.m3u8?tid=MBBB6637589866375898&ct=19234&tsum=d2c641a325bf02e0b68c4f245e0165b0
-#EXTINF:-1 八大戏剧 
-http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e
-#EXTINF:-1 台视新闻 
-http://50.7.234.10:8278/ttvnews_twn/playlist.m3u8?tid=MBBB6637589866375898&ct=19234&tsum=d2c641a325bf02e0b68c4f245e0165b0
-#EXTINF:-1 年代新闻 
-http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
-#EXTINF:-1 年代新闻 
-http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
-#EXTINF:-1 AXNTAIWAN 
-http://198.16.100.186:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
-#EXTINF:-1 中天娱乐 
-http://198.16.100.186:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
-#EXTINF:-1 中视新闻 
-http://198.16.100.186:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
-#EXTINF:-1 三立台湾 
-http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-#EXTINF:-1 民视新闻 
-http://198.16.100.186:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
-#EXTINF:-1 八大第一 
+#EXTINF:-1,东森财经
 http://198.16.100.186:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
-#EXTINF:-1 TVBS新闻 
+http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
+#EXTINF:-1,中视新闻 
+http://50.7.234.10:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
+#EXTINF:-1,台视新闻 
+http://50.7.234.10:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
+#EXTINF:-1,八大戏剧 
+http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e
+#EXTINF:-1,台视新闻 
+http://50.7.234.10:8278/ttvnews_twn/playlist.m3u8?tid=MBBB6637589866375898&ct=19234&tsum=d2c641a325bf02e0b68c4f245e0165b0
+#EXTINF:-1,八大戏剧 
+http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e
+#EXTINF:-1,台视新闻 
+http://50.7.234.10:8278/ttvnews_twn/playlist.m3u8?tid=MBBB6637589866375898&ct=19234&tsum=d2c641a325bf02e0b68c4f245e0165b0
+#EXTINF:-1,年代新闻 
+http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
+#EXTINF:-1,年代新闻 
+http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
+#EXTINF:-1,AXNTAIWAN 
+http://198.16.100.186:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
+#EXTINF:-1,中天娱乐 
+http://198.16.100.186:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
+#EXTINF:-1,中视新闻 
+http://198.16.100.186:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
+#EXTINF:-1,三立台湾 
+http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+#EXTINF:-1,民视新闻 
+http://198.16.100.186:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
+#EXTINF:-1,八大第一 
+http://198.16.100.186:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
+#EXTINF:-1,TVBS新闻 
 http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=mc42afe745533&ct=11595591&tsum=5b90480b8ba99a939ea4cc4bf8bb2650
-#EXTINF:-1 TVBS新闻 
+#EXTINF:-1,TVBS新闻 
 http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 #EXTINF:-1,TVBSNEWS
 http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2eeXTINF:-1,hoy77
