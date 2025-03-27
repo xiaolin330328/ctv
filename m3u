@@ -3,7 +3,17 @@
 http://58.213.65.146:352/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路272』
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
+【四川】绵阳电信酒店源
+四川经济高清,http://61.157.139.15:9901/tsfile/live/2416_1.m3u8
+四川文化旅游高清,http://61.157.139.15:9901/tsfile/live/2417_1.m3u8
+四川新闻高清,http://61.157.139.15:9901/tsfile/live/2411_1.m3u8
+四川影视文艺高清,http://61.157.139.15:9901/tsfile/live/2412_1.m3u8
+四川妇女儿童高清,http://61.157.139.15:9901/tsfile/live/2414_1.m3u8
+星空购物高清,http://61.157.139.15:9901/tsfile/live/2413_1.m3u8
+康巴卫视高清,http://61.157.139.15:9901/tsfile/live/2415_1.m3u8
+峨眉电影高清,http://61.157.139.15:9901/tsfile/live/2396_1.m3u8
 
+有效期：3天
 #EXTINF:-1,台视新闻 
 http://38.64.72.148:80/hllsmodn/list/4013/chunklist1.m3u8
 #EXTINF:-1,台视新闻
@@ -138,7 +148,7 @@ http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=mc42afe745533&ct=11595591&ts
 http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 #EXTINF:-1,TVBSNEWS
 http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
-#XTINF:-1,hoy77
+#EXTINF:-1,hoy77
 https://tv.cdn5.rr.nu/live/hoy/stream.m3u8
 #EXTINF:-1,东森电影
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvmovie/playlist.m3u8 
