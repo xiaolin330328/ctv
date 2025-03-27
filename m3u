@@ -3,12 +3,9 @@
 http://58.213.65.146:352/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路272』
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://goo.bkpcp.top/mg/cctv1 
-#EXTINF:-1,台视新闻台 
-http://198.16.100.186:8278/ttvnews_twn/playlist.m3u8?tid=mc42afe745533&ct=11595593&tsum=e0709b9420ba53c17cd14353d5743f79
+
 #EXTINF:-1,台视新闻 
-http://50.7.234.10:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
+http://38.64.72.148:80/hist/4013/chunklist1.m3u8
 #EXTINF:-1,台视新闻
 http://50.7.234.10:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 #EXTINF:-1,台视 
