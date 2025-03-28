@@ -3,8 +3,7 @@
 http://58.213.65.146:352/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路272』
 #EXTINF:-1,四川经济高清
 http://61.157.139.15:9901/tsfile/live/2416_1.m3u8
-#EXTINF:-1
-四川文化旅游高清
+#EXTINF:-1,四川文化旅游高清
 http://61.157.139.15:9901/tsfile/live/2417_1.m3u8
 #EXTINF:-1,四川新闻高清
 http://61.157.139.15:9901/tsfile/live/2411_1.m3u8
