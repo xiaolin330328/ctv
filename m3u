@@ -69,6 +69,10 @@ http://175.16.149.197:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=
 http://175.16.149.197:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive
 #EXTINF:-1,cctv17
 http://175.16.149.197:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,吉林卫视
+http://175.16.149.197:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,吉林卫视
+http://175.16.149.197:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive
 #EXTINF:-1,东方卫视
 http://175.16.149.197:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,东方卫视
@@ -109,6 +113,10 @@ http://175.16.149.197:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive
 http://175.16.149.197:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,江西卫视
 http://175.16.149.197:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive
+#EXTINF:-1,河南卫视
+http://175.16.149.197:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,河南卫视
+http://175.16.149.197:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive
 #EXTINF:-1,河北卫视
 http://175.16.149.197:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,河北卫视
