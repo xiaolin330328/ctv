@@ -5,7 +5,7 @@ http://58.213.65.146:352/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$
 http://utuxx.91kds.cn/live1/hntv.m3u8?id=hndsj&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu:ck:92:92:ff&nwtime=1743273230&sign=03acc38f7791fecd405631e38680ed0e&ev=20240918
 #EXTINF:-1,湖南电影
 http://kgq888.91kds.cn/live1/hntv.m3u8?id=hndy&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu:ck:92:92:ff&nwtime=1743273316&sign=481f80a926a689c7dac53bfcff3ff8ec&ev=20240918
-#EXTINF:-1，东方卫视
+#EXTINF:-1东方卫视
 http://utuxx.91kds.cn/live1/bstv.m3u8?id=dfwshd&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu:ck:92:92:ff&nwtime=1743276133&sign=2097347aa231d2ea63744862b7a8fbb2&ev=20240918
 #EXTINF:-1,长影
 http://175.16.149.197:9901/tsfile/live/0013_2.m3u8?key=txiptv&playlive=1&authid=0
