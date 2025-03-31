@@ -93,7 +93,7 @@ http://58.243.224.244:9901/tsfile/live/1012_1.m3u8?txiptv&playlive
 http://58.243.224.244:9901/tsfile/live/1013_1.m3u8?txiptv&playlive
 #EXTINF:-1,CCTV17
 http://58.243.224.244:9901/tsfile/live/1014_1.m3u8?txiptv&playlive
-#EXTINF:-1,三沙卫视
+#EXTINF:-1,天津卫视
 http://58.243.224.244:9901/tsfile/live/1025_1.m3u8?txiptv&playlive
 #EXTINF:-1,东方卫视
 http://58.243.224.244:9901/tsfile/live/1017_1.m3u8?txiptv&playlive
@@ -200,7 +200,7 @@ http://bxny.667789.cn:88/hls/107/index.m3u8
 #EXTINF:-1,睛彩篮球
 http://bxny.667789.cn:88/hls/108/index.m3u8
 
-#XTINF:-1,阜阳都市
+#EXTINF:-1,阜阳都市
 http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2854.m3u8?auth_key=4835990545-0-0-80a02249988a1cd7a605401bb3a97442&extra_key=ohSJKJdeEa3QQlgmBxpudi6ezxha2e0nc6NZj3SHRORmaEFCgqd6yS2lGW3j-QQf56tTLDfQMDwAAnYcmDicXDRhX7-vqQx3Y2n2ERhE5FWfT3X--ob2iuEq3JtYdHC_ndaPCeOBQdXbH--HpXp2yu84RkSRTHg6mejJ52Qu7did-D4rWp9iydThnLbjeQ_1
 #EXTINF:-1,阜阳教育
 http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2852.m3u8?auth_key=4835990057-0-0-017419faa93529a4aa5fc283632732ca&extra_key=vQshsQkSOG1FT9Mb763SReA_ScJbWZE1GdTHuMtghVIye3UhXJWOF-WqFU3cuQ-uD1nO3QrpvlmEGnULzFj7L_nbUOgIFmahrvO-Mu8U3Rx4MRBSMj7QUjXKdwK-4_tfiHF9qHU4TLF_9Q9bpL7Sk2xp6AMy4uMlD3O5Hmrnu1w2QzhRwTPxeTmKO9iTZamR
