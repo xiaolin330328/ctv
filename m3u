@@ -55,6 +55,8 @@ http://ms.fxim.net:808/hls/11/index.m3u8?txiptv&playlive
 http://ms.fxim.net:808/hls/12/index.m3u8?txiptv&playlive
 #EXTINF:-1,峨眉电影
 http://218.89.240.144:59901/tsfile/live/1011_1.m3u8
+#EXTINF:-1,CCTV5HD
+http://171.118.123.35:8085/rtp/226.0.2.168:9256
 #EXTINF:-1,青海卫视
 http://118.122.189.74:9901/tsfile/live/0140_1.m3u8?txiptv&playlive
 #EXTINF:-1,青海卫视
