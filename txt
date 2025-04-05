@@ -1,4 +1,11 @@
 央视频道,#genre#
+山西--列表,#genre#
+山西卫视,http://183.185.70.207:8082/rtp/226.0.2.11:8000
+山西卫视,http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8
+山西卫视,http://123.132.233.194:352/tsfile/live/0118_1.m3u8
+CCTV1综合,http://171.116.58.208:9999/tsfile/live/0001_1.m3u8
+CCTV5体育,http://171.116.58.208:9999/tsfile/live/0005_1.m3u8
+CCTV4国际,http://171.116.58.208:9999/tsfile/live/0004_1.m3u8
 湖南--列表,#genre#
 深圳卫视,http://110.52.8.18:808/hls/36/index.m3u8
 辽宁卫视,http://110.52.8.18:808/hls/37/index.m3u8
