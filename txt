@@ -1,3 +1,14 @@
+辽宁--地方,#genre#
+哈尔滨新闻综合高清,http://htgy.zynas.top:4000/udp/233.0.0.116:10001
+哈尔滨生活高清,http://htgy.zynas.top:4000/udp/233.0.0.117:10001
+哈尔滨影视高清,http://htgy.zynas.top:4000/udp/233.0.0.118:10001
+鸡西新闻综合高清,http://htgy.zynas.top:4000/udp/233.0.0.236:10001
+鸡西安全生活高清,http://htgy.zynas.top:4000/udp/233.0.0.237:10001
+黑河新闻综合,http://htgy.zynas.top:4000/udp/229.58.190.12:5000
+牡丹江新闻综合,http://htgy.zynas.top:4000/udp/229.58.190.215:5000
+佳木斯新闻综合,http://htgy.zynas.top:4000/udp/229.58.190.163:5000
+齐齐哈尔新闻综合,http://htgy.zynas.top:4000/udp/229.58.190.164:5000
+齐齐哈尔经济法治,http://htgy.zynas.top:4000/udp/229.58.190.192:5000
 浙江--列表,#genre#
 钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?$浙江官方
 之江记录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?$浙江官方
