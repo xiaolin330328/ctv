@@ -1,13 +1,11 @@
-四川--地方#genre#
-达州新闻综合高清,https://m3u8channel.dzrm.cn/nmip-media/channellive/channel104234/playlist.m3u8
-达州文化生活高清,https://m3u8channel.dzrm.cn/nmip-media/channellive/channel104727/playlist.m3u8
+四川--地方,#genre#
 朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 剑阁综合,https://tvfile.scjgtv.cn/nmip-media/channellive/channel104126/playlist.m3u8
 旺苍综合,http://channel.wcrmt.cn/nmip-media/channellive/channel105268/playlist.m3u8
 沙湾综合,http://tvfile.swrmt.com/nmip-media/channellive/channel100064/playlist.m3u8
 井研新闻综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8达州通川高清,https://file.dzxw.net/nmip-media/channellive/channel105011/playlist.m3u8
 
-西藏--地方#genre#
+西藏--地方,#genre#
 西藏卫视高清http://www.lysvc.cc/daili/xztv.php?id=0
 西藏藏语高清http://www.lysvc.cc/daili/xztv.php?id=1
 西藏影视文化高清http://www.lysvc.cc/daili/xztv.php?id=2
@@ -47,18 +45,6 @@
 黑河新闻综合,http://bxny.667789.cn:88/hls/53/index.m3u8
 【黑河影视】,http://bxny.667789.cn:88/hls/161/index.m3u8
 佳木斯新闻综合高清,http://bxny.667789.cn:88/hls/54/index.m3u8
-齐黑龙江都市,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226301
-黑龙江都市,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226427
-黑龙江农业科教,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226242
-黑龙江农业科教,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226492
-黑龙江少儿,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226304
-黑龙江少儿,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226371
-黑龙江文体,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226239
-黑龙江文体,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226424
-黑龙江新闻法治,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226330
-黑龙江新闻法治,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226368
-黑龙江影视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226298
-黑龙江影视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226365齐哈尔新闻综合,http://bxny.667789.cn:88/hls/55/index.m3u8
 
 浙江--列表,#genre#
 钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?$浙江官方
@@ -246,7 +232,15 @@ HET,http://110.52.8.18:808/hls/28/index.m3u8
 襄阳公共,http://119.36.78.50:9981/tsfile/live/1022_1.m3u8
 襄阳经济生活,http://119.36.78.50:9981/tsfile/live/faacts/1003_1.m3u8
 谷城综合,http://119.36.78.50:9981/tsfile/live/1021_1.m3u8
-
+咸宁生活,http://nn.7x9d.cn/31.php?id=91
+咸宁综合,http://nn.7x9d.cn/31.php?id=80
+湖北卫视,http://nn.7x9d.cn/31.php?id=84
+湖北公共,http://nn.7x9d.cn/31.php?id=86
+湖北垄上,http://nn.7x9d.cn/31.php?id=82
+湖北影视,http://nn.7x9d.cn/31.php?id=87
+湖北教育,http://nn.7x9d.cn/31.php?id=88
+湖北生活,http://nn.7x9d.cn/31.php?id=83
+湖北经视,http://nn.7x9d.cn/31.php?id=85
 天津--列表,#genre#
 CCTV13新闻,http://180.213.174.225:9901/tsfile/live/0013_1.m3u8
 CCTV14少儿,http://180.213.174.225:9901/tsfile/live/0014_1.m3u8
