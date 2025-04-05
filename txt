@@ -232,15 +232,7 @@ HET,http://110.52.8.18:808/hls/28/index.m3u8
 襄阳公共,http://119.36.78.50:9981/tsfile/live/1022_1.m3u8
 襄阳经济生活,http://119.36.78.50:9981/tsfile/live/faacts/1003_1.m3u8
 谷城综合,http://119.36.78.50:9981/tsfile/live/1021_1.m3u8
-咸宁生活,http://nn.7x9d.cn/31.php?id=91
-咸宁综合,http://nn.7x9d.cn/31.php?id=80
-湖北卫视,http://nn.7x9d.cn/31.php?id=84
-湖北公共,http://nn.7x9d.cn/31.php?id=86
-湖北垄上,http://nn.7x9d.cn/31.php?id=82
-湖北影视,http://nn.7x9d.cn/31.php?id=87
-湖北教育,http://nn.7x9d.cn/31.php?id=88
-湖北生活,http://nn.7x9d.cn/31.php?id=83
-湖北经视,http://nn.7x9d.cn/31.php?id=85
+
 天津--列表,#genre#
 CCTV13新闻,http://180.213.174.225:9901/tsfile/live/0013_1.m3u8
 CCTV14少儿,http://180.213.174.225:9901/tsfile/live/0014_1.m3u8
