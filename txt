@@ -7,8 +7,8 @@
 都市剧场,http://60.172.130.146:352/tsfile/live/1005_1.m3u8?ace
 合肥新闻,http://60.172.130.146:352/tsfile/live/1006_1.m3u8?ace
 湖南卡通,http://60.172.130.146:352/tsfile/live/1007_1.m3u8?ace
-合肥新闻,http://60.172.130.146:352/tsfile/live/1008_1.m3u8?ace
-安徽综艺,http://60.172.130.146:352/tsfile/live/1009_1.m3u8?ace
+北京卡通,http://60.172.130.146:352/tsfile/live/1008_1.m3u8?ace
+乐游,http://60.172.130.146:352/tsfile/live/1009_1.m3u8?ace
 安徽公共,http://60.172.130.146:352/tsfile/live/1010_1.m3u8?ace
 安徽影视,http://60.172.130.146:352/tsfile/live/1011_1.m3u8?ace
 都市剧场,http://60.172.130.146:352/tsfile/live/1012_1.m3u8?ace
@@ -23,10 +23,10 @@
 湖南卡通,http://60.172.130.146:352/tsfile/live/1019_1.m3u8?ac
 安徽国际，http://43.129.81.169/live.ahsx.ahtv.cn/live/gjtv.m3u8
 安徽影视,http://43.129.81.169/live.ahsx.ahtv.cn/live/ystv.m3u8
-安徽公共，http://43.129.81.169/live.ahsx.ahtv.cn/live/ggtv.m3u8
+安徽公共,http://43.129.81.169/live.ahsx.ahtv.cn/live/ggtv.m3u8
 安徽综艺体育,http://43.129.81.169/live.ahsx.ahtv.cn/live/zytytv.m3u8
-安徽经济生活，http://43.129.81.169/live.ahsx.ahtv.cn/live/jjshtv.m3u8
-安徽卫视，http://43.129.81.169/live.ahsx.ahtv.cn/live/wstv.m3u8
+安徽经济生活,http://43.129.81.169/live.ahsx.ahtv.cn/live/jjshtv.m3u8
+安徽卫视,http://43.129.81.169/live.ahsx.ahtv.cn/live/wstv.m3u8
 河南,#genre#
 河南卫视,http://live.nctv.top/KLJHDS/hntv.php?id=hnws
 河南新闻,http://live.nctv.top/KLJHDS/hntv.php?id=hnxw
