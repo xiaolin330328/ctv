@@ -2310,7 +2310,7 @@ CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
 
 山西卫视,http://iptv.huuc.edu.cn/hls/sxhd.m3u8
-河北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
+河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
 河南卫视,http://iptv.huuc.edu.cn/hls/hnhd.m3u8
 广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
 广西江卫视,http://iptv.huuc.edu.cn/hls/gxhd.m3u8
@@ -2328,7 +2328,7 @@ CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 宁夏卫视,http://iptv.huuc.edu.cn/hls/nxhd.m3u8
-内蒙古卫视,http://iptv.huuc.edu.cn/hls/nmghd.m3u8
+内蒙古卫视,http://iptv.huuc.edu.cn/hls/nmhd.m3u8
 西藏卫视,http://iptv.huuc.edu.cn/hls/xzhd.m3u8
 
 钱江都市,http://iptv.huuc.edu.cn/hls/ztv2hd.m3u8
