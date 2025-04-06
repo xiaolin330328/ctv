@@ -9,8 +9,9 @@
 金华新闻,http://live.nctv.top/KLJHDS/jhtv.php?id=jhws
 台州新闻,http://live.nctv.top/KLJHDS/tztv.php?id=tzxw
 宁波新闻,http://live.nctv.top/KLJHDS/nbtv.php?id=nbws
+福建新闻,http://live.nctv.top/KLJHDS/fjtv.php?id=fjxw
+江苏新闻,http://live.nctv.top/KLJHDS/jstv.php?id=jsws
 天津新闻,http://live.nctv.top/KLJHDS/tjtv.php?id=tjxw
-
 
 
 
