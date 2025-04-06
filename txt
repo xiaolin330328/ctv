@@ -4,14 +4,14 @@
 旺苍综合,http://channel.wcrmt.cn/nmip-media/channellive/channel105268/playlist.m3u8
 沙湾综合,http://tvfile.swrmt.com/nmip-media/channellive/channel100064/playlist.m3u8
 井研新闻综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8达州通川高清,https://file.dzxw.net/nmip-media/channellive/channel105011/playlist.m3u8
-河南卫视,http://live.nctv.top/KLJHDS/hntv.php?id=hnws
-河南新闻,http://live.nctv.top/KLJHDS/hntv.php?id=hnxw
-金华新闻,http://live.nctv.top/KLJHDS/jhtv.php?id=jhws
-台州新闻,http://live.nctv.top/KLJHDS/tztv.php?id=tzxw
-宁波新闻,http://live.nctv.top/KLJHDS/nbtv.php?id=nbws
-福建新闻,http://live.nctv.top/KLJHDS/fjtv.php?id=fjxw
-江苏新闻,http://live.nctv.top/KLJHDS/jstv.php?id=jsws
-天津新闻,http://live.nctv.top/KLJHDS/tjtv.php?id=tjxw
+河南卫视,http://live.nctv.top/KLJHDS/hntv.php?id=hnws.m3u8
+河南新闻,http://live.nctv.top/KLJHDS/hntv.php?id=hnxw.m3u8
+金华新闻,http://live.nctv.top/KLJHDS/jhtv.php?id=jhws.m3u8
+台州新闻,http://live.nctv.top/KLJHDS/tztv.php?id=tzxw.m3u8
+宁波新闻,http://live.nctv.top/KLJHDS/nbtv.php?id=nbws.m3u8
+福建新闻,http://live.nctv.top/KLJHDS/fjtv.php?id=fjxw.m3u8
+江苏新闻,http://live.nctv.top/KLJHDS/jstv.php?id=jsws.m3u8
+天津新闻,http://live.nctv.top/KLJHDS/tjtv.php?id=tjxw.m3u8
 
 
 
