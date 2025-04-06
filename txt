@@ -6,10 +6,10 @@
 井研新闻综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8达州通川高清,https://file.dzxw.net/nmip-media/channellive/channel105011/playlist.m3u8
 河南卫视,http://live.nctv.top/KLJHDS/hntv.php?id=hnws
 河南新闻,http://live.nctv.top/KLJHDS/hntv.php?id=hnxw
-金华新闻,http://live.nctv.top/KLJHDS/jhtv.php?id=hnws
-台州新闻,http://live.nctv.top/KLJHDS/tztv.php?id=hnxw
-宁波新闻,http://live.nctv.top/KLJHDS/nbtv.php?id=hnws
-天津新闻,http://live.nctv.top/KLJHDS/tjtv.php?id=hnxw
+金华新闻,http://live.nctv.top/KLJHDS/jhtv.php?id=jhws
+台州新闻,http://live.nctv.top/KLJHDS/tztv.php?id=tzxw
+宁波新闻,http://live.nctv.top/KLJHDS/nbtv.php?id=nbws
+天津新闻,http://live.nctv.top/KLJHDS/tjtv.php?id=tjxw
 
 
 
