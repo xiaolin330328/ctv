@@ -1,12 +1,4 @@
 
-
-TVB星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
-TVB Live Show,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/playlist.m3u8
-亚洲武侠,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
-TVB娱乐新闻台, https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
-TVB Thai,https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
-神州新闻台,https://edge6a.v2h-cdn.com/mainland/mainland.stream/chunklist.m3u8
-
 CCTV1-超清,http://14.145.150.251:9901/tsfile/live/0001_1.m3u8?key=txiptv&url=tvzb.com
 CCTV2-超清,http://14.145.150.251:9901/tsfile/live/0002_1.m3u8?key=txiptv&url=tvzb.com
 CCTV3-超清,http://14.145.150.251:9901/tsfile/live/0003_1.m3u8?key=txiptv&url=tvzb.com
@@ -29,19 +21,6 @@ CCTV17,http://migu.z529.com/migu/673168256.m3u8?migutoken=feee9b49658abb6d92e0c8
 东方卫视-超清,http://14.145.150.251:9901/tsfile/live/0107_1.m3u8?key=txiptv&url=tvzb.com
 内蒙古卫视-标清,http://14.145.150.251:9901/tsfile/live/0109_1.m3u8?key=txiptv&url=tvzb.com
 新疆卫视-标清,http://14.145.150.251:9901/tsfile/live/0110_1.m3u8?key=txiptv&url=tvzb.com
-浙江卫视-超清,http://14.145.150.251:9901/tsfile/live/0120_1.m3u8?key=txiptv&url=tvzb.com
-北京卫视-超清,http://14.145.150.251:9901/tsfile/live/0121_1.m3u8?key=txiptv&url=tvzb.com
-东方卫视-超清,http://14.145.150.251:9901/tsfile/live/0123_1.m3u8?key=txiptv&url=tvzb.com
-内蒙古卫视-标清,http://14.145.150.251:9901/tsfile/live/0125_1.m3u8?key=txiptv&url=tvzb.com
-新疆卫视-标清,http://14.145.150.251:9901/tsfile/live/0126_1.m3u8?key=txiptv&url=tvzb.com
-浙江卫视-超清,http://14.145.150.251:9901/tsfile/live/0127_1.m3u8?key=txiptv&url=tvzb.com
-北京卫视-超清,http://14.145.150.251:9901/tsfile/live/0128_1.m3u8?key=txiptv&url=tvzb.com
-东方卫视-超清,http://14.145.150.251:9901/tsfile/live/0129_1.m3u8?key=txiptv&url=tvzb.com
-内蒙古卫视-标清,http://14.145.150.251:9901/tsfile/live/0130_1.m3u8?key=txiptv&url=tvzb.com
-
-
-
-
 
 四川--地方,#genre#
 朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
@@ -51,8 +30,6 @@ CCTV17,http://migu.z529.com/migu/673168256.m3u8?migutoken=feee9b49658abb6d92e0c8
 井研新闻综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8达州通川高清,https://file.dzxw.net/nmip-media/channellive/channel105011/playlist.m3u8
 河南卫视,http://live.nctv.top/KLJHDS/hntv.php?id=hnws
 河南新闻,http://live.nctv.top/KLJHDS/hntv.php?id=hnxw
-
-
 
 西藏--地方,#genre#
 西藏卫视高清http://www.lysvc.cc/daili/xztv.php?id=0
