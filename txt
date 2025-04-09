@@ -1,11 +1,8 @@
 🤡🤡🤡,https://vd3.bdstatic.com/mda-mkp88kxv6r8y73k9/sc/cae_h264/1637733263867775329/mda-mkp88kxv6r8y73k9.mp4
-不知道,http://i.880824.xyz:35455/huya/11352941
 POPC,http://go1.bkpcp.top/tl/popc
 无线功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 无线功夫,https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=m3u8
-华数,http://58.58.111.222:808/hls/74/index.m3u8
-北京淘,http://111.196.255.87:10000/rtp/239.3.1.250:8001
-北京淘,
+华数,http://58.58.111.222:808/hls/55/index.m3u8
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
 天映经典,http://108.181.20.197/livehttpplay?channel_id=20063
 天映经典,http://go1.bkpcp.top/tl/null-1
@@ -13,24 +10,18 @@ POPC,http://go1.bkpcp.top/tl/popc
 经典,http://60.172.130.146:352/tsfile/live/1006_1.m3u8?txiptv&playlive
 经典,http://183.66.15.146:60901/tsfile/live/0111_2.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-重温经典,http://mtw.so/5NPX0U
 重温经典电影,http://120.53.103.239:12345/bptv/10000100000000050000000003887494.m3u8
-好莱坞,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
-好莱坞,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
-东森,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 东森,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 龙华,http://198.16.100.186:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
 龙华,http://122.117.71.103:8555/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8?txiptv&playlive
-龙祥,
 龙祥,http://108.181.20.197/livehttpplay?channel_id=20114
 美亚,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/meiyamovie_twn/playlist.m3u8
 美亚,http://198.16.100.186:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
 美亚电影,http://go1.bkpcp.top/tl/null-5
 美亚电影,http://aktv-stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 美亚电影,http://108.181.20.197/livehttpplay?channel_id=20197
-纬来,http://122.117.71.103:8554/http/220.130.87.218:8081/hls/69/811/ch035.m3u8
-纬来,http://122.117.71.103:8554/http/220.130.87.218:8081/hls/69/811/ch035.m3u8
-纬来,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8?txiptv&playlive
+纬来电影,http://122.117.71.103:8554/http/220.130.87.218:8081/hls/69/811/ch035.m3u8
+纬来电影,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8?txiptv&playlive
 黄金华剧,http://go1.bkpcp.top/tl/null-9
 AMC,http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8
 AMC,http://122.117.71.103:8559/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
@@ -42,9 +33,9 @@ HBO原创,http://108.181.20.197/livehttpplay?channel_id=20314
 HBO原创,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 林正英,http://i.880824.xyz:35455/huya/11342421?cdn=txcdn
 刘德华,http://i.880824.xyz:35455/huya/11342424?cdn=txcdn
-洪金宝,http://i.880824.xyz:35455/huya/11279251
+洪金宝,http://i.880824.xyz:35455/huya/11279251?cdn=txcdn
 周润发,http://i.880824.xyz:35455/huya/11342387?cdn=txcdn
-周星驰,http://124.248.69.76:26781/huya/11342412
+周星驰,http://124.248.69.76:26781/huya/11342412?cdn=txcdn
 周星驰,http://i.880824.xyz:35455/huya/11342412?cdn=txcdn
 成龙,http://i.880824.xyz:35455/huya/11342386?cdn=txcdn
 1905,http://120.76.248.139/live/lunbo/ssdy.m3u8
@@ -95,7 +86,7 @@ HBO原创,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423
 彩虹e台,mitv://generationnexxxt.com:19806/3f5f22df9a324f759e43967b0d3ffe65
 彩虹e台,mitv://135.148.104.228:19806/3f5f22df9a324f759e43967b0d3ffe65
 彩虹电影台,mitv://generationnexxxt.com:19806/65b9f44984e749a8b14455a173779644
-彩虹电影台,http://135.148.104.228:19806/65b9f44984e749a8b14455a173779644
+彩虹电影台,http://135.148.104.228:19806/65b9f44984e749a8b14455a173779644.m3u8
 LOOK TV,mitv://generationnexxxt.com:19806/c8aab8c8683c4f35aba0e745535afd41
 LOOK TV,mitv://135.148.104.228:19806/c8aab8c8683c4f35aba0e745535afd41
 潘朵啦玩美台,mitv://generationnexxxt.com:19806/3f91635cf956419490d1905f7d5c6790
