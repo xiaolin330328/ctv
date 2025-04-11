@@ -4,46 +4,23 @@
 北京卫视,http://58.46.79.232:9999/tsfile/live/0122_1.m3u8
 安徽卫视,http://58.46.79.232:9999/tsfile/live/0130_1.m3u8
 东方卫视,http://58.46.79.232:9999/tsfile/live/1005_1.m3u8
-温州综合高清,http://60.184.45.67:8889/udp/233.50.201.87:5140
-湖南--列表,#genre#
-CCTV2,http://175.9.44.63:8081/tsfile/live/0002_1.m3u8
-CCTV1,http://175.9.44.63:8081/tsfile/live/0001_1.m3u8
-深圳卫视，http://58.46.79.232:9999/tsfile/live/0126_1.m3u8
-江西卫视,http://58.46.79.232:9999/tsfile/live/0138_1.m3u8
-北京卫视,http://58.46.79.232:9999/tsfile/live/0122_1.m3u8
-安徽卫视，http://58.46.79.232:9999/tsfile/live/0130_1.m3u8
-东方卫视,http://58.46.79.232:9999/tsfile/live/1005_1.m3u8
-CCTV15音乐,http://58.46.79.232:9999/tsfile/live/0015_1.m3u8
-CCTV14少儿,http://58.46.79.232:9999/tsfile/live/0014_1.m3u8
-CCTV12社会与法,http://58.46.79.232:9999/tsfile/live/0012_2.m3u8
-CCTV11戏曲,http://58.46.79.232:9999/tsfile/live/0011_2.m3u8
-CCTV10科教,http://58.46.79.232:9999/tsfile/live/0010_1.m3u8
-CCTV9纪录,http://58.46.79.232:9999/tsfile/live/0009_1.m3u8
-CCTV8电视剧,http://58.46.79.232:9999/tsfile/live/0008_1.m3u8
-CCTV7军农,http://58.46.79.232:9999/tsfile/live/0007_1.m3u8
-CCTV6电影,http://58.46.79.232:9999/tsfile/live/0006_1.m3u8
-CCTV5体育,http://58.46.79.232:9999/tsfile/live/0005_1.m3u8
-CCTV1综合,http://58.46.79.232:9999/tsfile/live/0017_1.m3u8
-潇湘电影,http://183.215.134.239:19901/tsfile/live/1006_1.m3u8
-湖南教育,http://183.215.134.239:19901/tsfile/live/1005_1.m3u8
-江西卫视,http://183.215.134.239:19901/tsfile/live/0138_1.m3u8
-南县新闻,http://183.215.134.239:19901/tsfile/live/1004_1.m3u8
-全纪实,http://183.215.134.239:19901/tsfile/live/1003_1.m3u8
-重温经典,http://183.215.134.239:19901/tsfile/live/1002_1.m3u8
-北京卫视,http://183.215.134.239:19901/tsfile/live/0122_1.m3u8
-深圳卫视，http://183.215.134.239:19901/tsfile/live/0126_1.m3u8
-广东卫视,http://183.215.134.239:19901/tsfile/live/0125_1.m3u8
-东方卫视,http://183.215.134.239:19901/tsfile/live/0107_1.m3u8
-浙江卫视,http://183.215.134.239:19901/tsfile/live/0124_1.m3u8
-湖南都市,http://183.215.134.239:19901/tsfile/live/1001_1.m3u8
-湖南经视,http://183.215.134.239:19901/tsfile/live/1000_1.m3u8
-湖南卫视,http://183.215.134.239:19901/tsfile/live/0128_1.m3u8
-CCTV13新闻,http://183.215.134.239:19901/tsfile/live/0013_1.m3u8
-CCTV8电视剧,http://183.215.134.239:19901/tsfile/live/0008_1.m3u8
-CCTV5,http://183.215.134.239:19901/tsfile/live/0005_1.m3u8
-CCTV3综艺,http://183.215.134.239:19901/tsfile/live/0003_1.m3u8
-CCTV2财经,http://183.215.134.239:19901/tsfile/live/0002_1.m3u8
-CCTV1综合,http://183.215.134.239:19901/tsfile/live/0001_1.m3u8
+【香港】香港代理
+TVB plus高清,https://cdn.163189.xyz/live/tvbp/stream.m3u8
+TVB 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
+TVB J1高清,https://cdn3.163189.xyz/live/j1/stream.m3u8
+TVB 翡翠台4K超高清,https://cdn.163189.xyz/live/fct4k/stream.m3u8
+凤凰卫视高清,https://cdn.163189.xyz/live/fhzw/stream.m3u8
+凤凰资讯高清,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
+凤凰香港台高清,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
+香港31台高清,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
+香港32台高清,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
+HOYTV77高清,https://cdn.163189.xyz/live/hoy/stream.m3u8
+广东珠江高清,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+广东体育高清,http://cdn2.163189.xyz/live/gdty/stream.m3u8
+澳门Macau高清,https://cdn.163189.xyz/live/as/stream.m3u8
+重温经典高清,https://cdn3.163189.xyz/live/cwjd/stream.m3u8
+CCTV-1高清,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+
 🤡🤡🤡,https://vd3.bdstatic.com/mda-mkp88kxv6r8y73k9/sc/cae_h264/1637733263867775329/mda-mkp88kxv6r8y73k9.mp4
 POPC,http://go1.bkpcp.top/tl/popc
 无线功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
