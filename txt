@@ -748,7 +748,6 @@ CCTV2,http://119.36.148.115:59901/tsfile/live/0002_1.m3u8
 2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 2025年春晚,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 2025年春晚,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 校园频道,#genre#
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -800,16 +799,16 @@ CHC动作电影,http://iptv.huuc.edu.cn/hls/chcatv.m3u8
 星空卫视,http://iptv.huuc.edu.cn/hls/startv.m3u8
 SPORTS,http://iptv.huuc.edu.cn/hls/starsports.m3u8
 探索频道,http://iptv.huuc.edu.cn/hls/discovery.m3u8
-三沙卫视,http://iptv.huuc.edu.cn/hls/sshd.m3u8
-广西卫视,http://iptv.huuc.edu.cn/hls/gxhd.m3u8
-陕西卫视,http://iptv.huuc.edu.cn/hls/sxhd.m3u8
-吉林卫视,http://iptv.huuc.edu.cn/hls/jlhd.m3u8
-内蒙古卫视,http://iptv.huuc.edu.cn/hls/nmghd.m3u8
-天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
-山西卫视,http://iptv.huuc.edu.cn/hls/sxhd.m3u8
+三沙卫视,http://iptv.huuc.edu.cn/hls/sstv.m3u8
+广西卫视,http://iptv.huuc.edu.cn/hls/gxtv.m3u8
+陕西卫视,http://iptv.huuc.edu.cn/hls/sxtv.m3u8
+吉林卫视,http://iptv.huuc.edu.cn/hls/jltv.m3u8
+内蒙古卫视,http://iptv.huuc.edu.cn/hls/nmgtv.m3u8
+天津卫视,http://iptv.huuc.edu.cn/hls/tjtv.m3u8
+山西卫视,http://iptv.huuc.edu.cn/hls/sxtv.m3u8
 河南卫视,http://iptv.huuc.edu.cn/hls/henantv.m3u8
-河北卫视,http://iptv.huuc.edu.cn/hls/hebeihd.m3u8
-贵州卫视,http://iptv.huuc.edu.cn/hls/gzhd.m3u8
+河北卫视,http://iptv.huuc.edu.cn/hls/hebeitv.m3u8
+贵州卫视,http://iptv.huuc.edu.cn/hls/gztv.m3u8
 
 💫会员频道_8642,#genre#
 松视1台,https://18.svi-studio.com/live/908957700097/132663288386/5.m3u8
