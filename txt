@@ -18,6 +18,19 @@ CCTV7军农,http://58.46.79.232:9999/tsfile/live/0007_1.m3u8
 CCTV6电影,http://58.46.79.232:9999/tsfile/live/0006_1.m3u8
 CCTV5体育,http://58.46.79.232:9999/tsfile/live/0005_1.m3u8
 CCTV1综合,http://58.46.79.232:9999/tsfile/live/0017_1.m3u8
+【河南】驻马店联通
+驻马店新闻综合高清,http://ik6.iptv8.net:8888/udp/225.1.4.132:1168
+驻马店公共高清,http://ik6.iptv8.net:8888/udp/225.1.4.136:1172
+驻马店科教高清,http://ik6.iptv8.net:8888/udp/225.1.4.133:1169
+西平综合,http://ik6.iptv8.net:8888/udp/225.1.5.28:1340
+新蔡综合,http://ik6.iptv8.net:8888/udp/225.1.5.29:1341
+河南IPTV导视,http://ik6.iptv8.net:8888/udp/225.1.4.194:1244
+河南电视剧高清,http://ik6.iptv8.net:8888/udp/225.1.4.55:1084
+河南移动电视高清,http://ik6.iptv8.net:8888/udp/225.1.5.40:1350
+河南4K试验,http://ik6.iptv8.net:8888/udp/225.1.4.254:1300
+CCTV-4美洲高清,http://ik6.iptv8.net:8888/udp/225.1.5.32:1343
+
+有效期：399天
 【香港】香港代理
 TVB plus高清,https://cdn.163189.xyz/live/tvbp/stream.m3u8
 TVB 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
