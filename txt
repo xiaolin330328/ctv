@@ -800,6 +800,17 @@ CHC动作电影,http://iptv.huuc.edu.cn/hls/chcatv.m3u8
 星空卫视,http://iptv.huuc.edu.cn/hls/startv.m3u8
 SPORTS,http://iptv.huuc.edu.cn/hls/starsports.m3u8
 探索频道,http://iptv.huuc.edu.cn/hls/discovery.m3u8
+三沙卫视,http://iptv.huuc.edu.cn/hls/sshd.m3u8
+广西卫视,http://iptv.huuc.edu.cn/hls/gxhd.m3u8
+陕西卫视,http://iptv.huuc.edu.cn/hls/sxhd.m3u8
+吉林卫视,http://iptv.huuc.edu.cn/hls/jlhd.m3u8
+内蒙古卫视,http://iptv.huuc.edu.cn/hls/nmghd.m3u8
+天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
+山西卫视,http://iptv.huuc.edu.cn/hls/sxhd.m3u8
+河南卫视,http://iptv.huuc.edu.cn/hls/henantv.m3u8
+河北卫视,http://iptv.huuc.edu.cn/hls/hebeihd.m3u8
+贵州卫视,http://iptv.huuc.edu.cn/hls/gzhd.m3u8
+
 💫会员频道_8642,#genre#
 松视1台,https://18.svi-studio.com/live/908957700097/132663288386/5.m3u8
 松视2台,http://18.svi-studio.com:8880/live/091271435055/841916267544/6.m3u8
