@@ -252,18 +252,7 @@ HBO原创,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423
 僵尸道长,http://zzy789.xyz/douyu1.php?id=7356023
 庆余年1,http://i.880824.xyz:35455/huya/11352960?cdn=txcdn
 东方--列表,#genre#
-东方卫视,http://183.162.119.17:9901/tsfile/live/0107_1.m3u8
-东方卫视,http://110.53.52.63:8888/newlive/live/hls/19/live.m3u8
-东方卫视,http://60.223.224.176:8888/newlive/live/hls/19/live.m3u8
-东方卫视,http://123.159.134.124:9901/tsfile/live/0018_1.m3u8
-东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
-东方卫视,http://39.164.160.249:9901/tsfile/live/0107_1.m3u8
-上海东方卫视,http://220.164.192.48:50085/tsfile/live/0122_1.m3u8
 东方卫视,http://58.46.79.232:9999/tsfile/live/1005_1.m3u8
-东方卫视,http://58.245.255.34:9998/tsfile/live/0107_1.m3u8
-东方财经,http://180.213.174.225:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://112.46.85.60:8009/hls/31/index.m3u8
-东方卫视,http://113.218.230.36:8081/tsfile/live/0107_1.m3u8
 东方卫视高清,http://101.18.30.19:808/tsfile/live/1025_1.m3u8
 东方卫视,http://58.19.38.162:9901/tsfile/live/0107_1.m3u8
 东方卫视,http://218.13.14.6:60050/tsfile/live/1025_1.m3u8
@@ -313,16 +302,8 @@ HBO原创,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423
 长沙新闻综合,https://api.ggiptv.com/v/hunantv.php?id=233
 长沙政法,https://api.ggiptv.com/v/hunantv.php?id=232
 长沙女性,https://api.ggiptv.com/v/hunantv.php?id=231
-东南--列表,#genre#
-东南卫视,http://222.89.28.99:808/hls/83/index.m3u8
-东南卫视,http://123.149.40.122:9901/tsfile/live/0137_1.m3u8
 东南卫视高清,http://101.18.30.19:808/tsfile/live/1013_1.m3u8
-东南卫视,http://58.19.38.162:9901/tsfile/live/0137_1.m3u8
 东南卫视,http://119.36.78.50:9981/tsfile/live/0137_1.m3u8
-东南卫视,http://60.8.49.38:352/tsfile/live/0137_1.m3u8
-东南卫视,http://218.89.240.144:59901/tsfile/live/0137_1.m3u8
-东南卫视,http://111.172.12.162:1111/tsfile/live/0137_1.m3u8
-东南卫视,http://119.36.148.115:59901/tsfile/live/0137_1.m3u8
 晴天源,#genre#
 彩虹e台,mitv://generationnexxxt.com:19806/3f5f22df9a324f759e43967b0d3ffe65
 彩虹e台,mitv://135.148.104.228:19806/3f5f22df9a324f759e43967b0d3ffe65
@@ -428,7 +409,7 @@ CCTV17,http://migu.z529.com/migu/673168256.m3u8?migutoken=feee9b49658abb6d92e0c8
 昆明教育电视台,http://mt2018.iask.in:55555/udp/239.200.201.144:8844
 麻栗坡电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8?zyund
 
-湖南--列表,#genre#
+我湖南--列表,#genre#
 深圳卫视,http://110.52.8.18:808/hls/36/index.m3u8
 辽宁卫视,http://110.52.8.18:808/hls/37/index.m3u8
 湖南经视,http://110.52.8.18:808/hls/08/index.m3u8
