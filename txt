@@ -61,7 +61,6 @@ CCTV13新闻,http://119.36.78.50:9981/tsfile/live/1058_1.m3u8
 CCTV12社会与法,http://119.36.78.50:9981/tsfile/live/1057_1.m3u8
 CCTV11戏曲,http://119.36.78.50:9981/tsfile/live/1059_1.m3u8
 CCTV10科教,http://119.36.78.50:9981/tsfile/live/1056_1.m3u8
-CCTV9纪录,http://119.36.78.50:9981/tsfile/live/1055_1.m3u8
 CCTV8电视剧,http://119.36.78.50:9981/tsfile/live/1054_1.m3u8
 CCTV7军农,http://119.36.78.50:9981/tsfile/live/1053_1.m3u8
 CCTV6电影,http://119.36.78.50:9981/tsfile/live/1052_1.m3u8
