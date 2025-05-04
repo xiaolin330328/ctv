@@ -111,9 +111,9 @@ CCTV15,http://120.76.248.139/live/bfgd/4200000133.m3u8
 辽宁|辽宁教育青少,http://120.76.248.139/live/bfgd/4200000075.m3u8
 辽宁|辽宁经济,http://120.76.248.139/live/bfgd/4200000480.m3u8
 列表,#浙江地方台#
-温州,http://play-qk.wzrb.com.cn/live/1728463192330572.m3u8?auth_key=2044351793-fa66d1d33e3d426ca3dccb94845595d7-0-4bc36ce83dfac0c77ddd501ffe397bc
-瑞安电视台http://play-sh-21.quklive.com/live/1681269183807252.m3u8?auth_key=2033114999-67ff99bfbe1b4577b013750618ffce6b-0-454401c27452e83159ca9466ef742db2
-景宁电视台http://play-sh13.quklive.com/live/1644806967279134.m3u8?auth_key=2027430185-24bc09be7a97470aae8589a439910ca3-0-e1b42b4d35be5dbab1d4a8e43b94d148
+温州,http://play-qk.wzrb.com.cn/live/1728463192330572.m3u8?auth_key=2044351793-fa66d1d33e3d426ca3dccb94845595d7-0-4bc36ce83dfac0c77ddd501ffe397bcc
+瑞安电视台,http://play-sh-21.quklive.com/live/1681269183807252.m3u8?auth_key=2033114999-67ff99bfbe1b4577b013750618ffce6b-0-454401c27452e83159ca9466ef742db2
+景宁电视台,http://play-sh13.quklive.com/live/1644806967279134.m3u8?auth_key=2027430185-24bc09be7a97470aae8589a439910ca3-0-e1b42b4d35be5dbab1d4a8e43b94d148
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?fbl=
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed$订阅源
