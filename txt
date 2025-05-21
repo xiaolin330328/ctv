@@ -209,7 +209,7 @@ ahttp://8.138.7.223/tv/--列表,#genre#
 福建新闻,http://8.138.7.223/tv/fjtv.php?id=13$官方源
 福建经济,http://8.138.7.223/tv/fjtv.php?id=9$官方源
 
-浙江地方台#genre#
+浙江地方台,#genre#
 温州,http://play-qk.wzrb.com.cn/live/1728463192330572.m3u8?auth_key=2044351793-fa66d1d33e3d426ca3dccb94845595d7-0-4bc36ce83dfac0c77ddd501ffe397bcc
 瑞安电视台,http://play-sh-21.quklive.com/live/1681269183807252.m3u8?auth_key=2033114999-67ff99bfbe1b4577b013750618ffce6b-0-454401c27452e83159ca9466ef742db2
 景宁电视台,http://play-sh13.quklive.com/live/1644806967279134.m3u8?auth_key=2027430185-24bc09be7a97470aae8589a439910ca3-0-e1b42b4d35be5dbab1d4a8e43b94d148
@@ -270,7 +270,6 @@ ahttp://8.138.7.223/tv/--列表,#genre#
 浙江 Ⅰ 绍兴综合 (576p),http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?
-
 湖州文化娱乐,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887&fbl=$订阅源
 湖州新闻综合,http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865&amp;fbl=$订阅源
 湖州公共,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e&amp;fbl=$订阅源
