@@ -1,22 +1,30 @@
-【香港】凤凰网代理
-TVB 明珠台高清,https://live.tvfix.org/live/pearl/1/v4000000/index.m3u8
-TVB plus高清,https://live.tvfix.org/live/tvbplus/2/v4000000/index.m3u8
-TVB 无线新闻台高清,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
-凤凰卫视高清,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
-凤凰资讯高清,https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8
-TVB 无线新闻台,https://live.tvfix.org/live/inews/index.m3u8
-TVB 明珠台,https://live.tvfix.org/live/pearl/index.m3u8
-TVB plus高清,https://live.tvfix.org/live/tvbplus/index.m3u8
+
 【海南】三亚联通酒店源19天7月27
 海南自贸,http://153.0.171.163:85/tsfile/live/1016_1.m3u8?key=txiptv
 海南新闻,http://153.0.171.163:85/tsfile/live/1017_1.m3u8?key=txiptv
 海南公共,http://153.0.171.163:85/tsfile/live/1018_1.m3u8?key=txiptv
 海南文旅,http://153.0.171.163:85/tsfile/live/1019_1.m3u8?key=txiptv
-三亚综合,http://153.0.171.163:85/tsfile/live/1122_1.m3u8?key=txiptv
-
-
-
-
+三亚综合,http://153.0.171.163:85/tsfile/live/0122_1.m3u8?key=txiptv
+海南自贸,http://153.0.171.163:85/tsfile/live/0116_1.m3u8?key=txiptv
+海南新闻,http://153.0.171.163:85/tsfile/live/017_1.m3u8?key=txiptv
+海南公共,http://153.0.171.163:85/tsfile/live/0018_1.m3u8?key=txiptv
+海南文旅,http://153.0.171.163:85/tsfile/live/0119_1.m3u8?key=txiptv
+三亚综合,http://153.0.171.163:85/tsfile/live/0132_1.m3u8?key=txiptv
+海南自贸,http://153.0.171.163:85/tsfile/live/0016_1.m3u8?key=txiptv
+海南新闻,http://153.0.171.163:85/tsfile/live/0141_1.m3u8?key=txiptv
+海南公共,http://153.0.171.163:85/tsfile/live/0135_1.m3u8?key=txiptv
+海南文旅,http://153.0.171.163:85/tsfile/live/0145_1.m3u8?key=txiptv
+三亚综合,http://153.0.171.163:85/tsfile/live/0151_1.m3u8?key=txiptv
+海南自贸,http://153.0.171.163:85/tsfile/live/0001_1.m3u8?key=txiptv
+海南新闻,http://153.0.171.163:85/tsfile/live/0181_1.m3u8?key=txiptv
+海南公共,http://153.0.171.163:85/tsfile/live/0161_1.m3u8?key=txiptv
+海南文旅,http://153.0.171.163:85/tsfile/live/1001_1.m3u8?key=txiptv
+三亚综合,http://153.0.171.163:85/tsfile/live/0111_1.m3u8?key=txiptv
+海南自贸,http://153.0.171.163:85/tsfile/live/0125_1.m3u8?key=txiptv
+海南新闻,http://153.0.171.163:85/tsfile/live/0132_1.m3u8?key=txiptv
+海南公共,http://153.0.171.163:85/tsfile/live/0008_1.m3u8?key=txiptv
+海南文旅,http://153.0.171.163:85/tsfile/live/0019_1.m3u8?key=txiptv
+三亚综合,http://153.0.171.163:85/tsfile/live/0138_1.m3u8?key=txiptv
 
 
 
