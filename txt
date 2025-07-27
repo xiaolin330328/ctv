@@ -16,7 +16,7 @@
 景宁电视台,http://play-sh13.quklive.com/live/1644806967279134.m3u8?auth_key=2027430185-24bc09be7a97470aae8589a439910ca3-0-e1b42b4d35be5dbab1d4a8e43b94d148
 龙港电视台,http://play-qukan.cztv.com/live/1722309876941077.m3u8
 泰顺电视台,http://play-qukan.cztv.com/live/1678281955071033.m3u8
-苍南电视台,http://hls.quklive.com/live/play-sh-21.quklive.com/1726543353849105.m3u8?auth_key=1741693594-95967ef1b69e4feb81213eace59e8c60-0-1474004793a0546dd2d2fa5dad3c88d1
+苍南电视台,http://hls.quklive.com/live/play-sh-21.quklive.com/1726543353849105.m3u8?auth_key=1741693594-95967ef1b69e4feb81213eace59e8c60-0-1474004793a0546dd2b2fa5dad3c88d1
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?fbl=
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed$订阅源
