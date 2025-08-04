@@ -1,7 +1,7 @@
 我T2
-深圳卫视https://www.sztv.com.cn/pindao/index.html?id=7880
-深圳卫视https://www.sztv.com.cn/pindao/index.html?id=7867
-深圳卫视https://www.sztv.com.cn/pindao/index.html?id=7868
+深圳卫视,https://www.sztv.com.cn/pindao/index.html?id=7880
+深圳卫视,https://www.sztv.com.cn/pindao/index.html?id=7867
+深圳卫视,https://www.sztv.com.cn/pindao/index.html?id=7868
 宜春综合高清,http://113.195.172.192:808/hls/3/index.m3u8
 宜春公共高清,http://113.195.172.192:808/hls/2/index.m3u8
 江西都市高清,http://113.195.172.192:808/hls/5/index.m3u8
