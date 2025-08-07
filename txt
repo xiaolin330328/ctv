@@ -1,5 +1,65 @@
 我T2
-
+【广东】广州电信酒店源
+广州综合,http://125.94.172.2:8081/hls/24/index.m3u8
+广州新闻,http://125.94.172.2:8081/hls/33/index.m3u8
+广州综合高清,http://125.94.172.2:8081/hls/34/index.m3u8
+广州影视高清,http://125.94.172.2:8081/hls/36/index.m3u8
+广州法治,http://125.94.172.2:8081/hls/37/index.m3u8
+凤凰卫视,http://125.94.172.2:8081/hls/19/index.m3u8
+澳视澳门,http://125.94.172.2:8081/hls/73/index.m3u8
+星空卫视,http://125.94.172.2:8081/hls/18/index.m3u8
+TVB 翡翠台,http://125.94.172.2:8081/hls/20/index.m3u8
+TVB 明珠台,http://125.94.172.2:8081/hls/21/index.m3u8
+劲爆体育高清,http://125.94.172.2:8081/hls/68/index.m3u8
+广东体育,http://125.94.172.2:8081/hls/41/index.m3u8
+广东珠江,http://125.94.172.2:8081/hls/25/index.m3u8
+广东影视,http://125.94.172.2:8081/hls/31/index.m3u8
+有效期:  3天
+【河南】周口电信酒店源
+周口新闻综合高清,http://61.163.181.78:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+河南都市高清,http://61.163.181.78:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+河南民生高清,http://61.163.181.78:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+河南新闻高清,http://61.163.181.78:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+河南电视剧高清,http://61.163.181.78:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+河南法治高清,http://61.163.181.78:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+河南戏曲,http://61.163.181.78:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+有效期:  4天
+【浙江】杭州电信酒店源
+杭州综合,http://123.159.126.196:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+杭州明珠,http://123.159.126.196:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+杭州生活,http://123.159.126.196:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+杭州影视,http://123.159.126.196:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江钱江,http://123.159.126.196:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江经济生活,http://123.159.126.196:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江教育科技,http://123.159.126.196:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江新闻,http://123.159.126.196:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江少儿,http://123.159.126.196:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江民生休闲,http://123.159.126.196:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+有效期：6天
+【湖南】益阳联通酒店源
+南县综合,http://183.215.134.239:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南经视高清,http://183.215.134.239:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南都市高清,http://183.215.134.239:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南教育高清,http://183.215.134.239:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电影高清,http://183.215.134.239:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+重温经典高清,http://183.215.134.239:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+有效期：108天
+【山东】烟台联通酒店源
+烟台新闻综合,http://221.0.78.26:881/hls/50228/index.m3u8
+烟台公共,http://221.0.78.26:881/hls/50229/index.m3u8
+山东综艺高清,http://221.0.78.26:881/hls/50221/index.m3u8
+山东生活高清,http://221.0.78.26:881/hls/50220/index.m3u8
+山东农科高清,http://221.0.78.26:881/hls/50224/index.m3u8
+山东体育休闲高清,http://221.0.78.26:881/hls/50222/index.m3u8
+山东新闻高清,http://221.0.78.26:881/hls/50223/index.m3u8
+山东少儿高清,http://221.0.78.26:881/hls/50225/index.m3u8
+山东文旅高清,http://221.0.78.26:881/hls/50219/index.m3u8
+有效期：33天
+【浙江】绍兴联通酒店源
+丽水新闻综合高清,http://122.246.203.117:8081/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+杭州生活,http://122.246.203.117:8081/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+iOT爱旅行,http://122.246.203.117:8081/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
+有效期：4天
 EYE戲劇,https://Smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 東森新聞,https://Smart.pendy.dpdns.org/Smart.php?id=ettvnews
 TVBS HD,https://Smart.pendy.dpdns.org/Smart.php?id=tvbs
