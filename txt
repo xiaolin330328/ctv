@@ -1,20 +1,27 @@
 我T2
-【广东】广州电信酒店源
-广州综合,http://125.94.172.2:8081/hls/24/index.m3u8
-广州新闻,http://125.94.172.2:8081/hls/33/index.m3u8
-广州综合高清,http://125.94.172.2:8081/hls/34/index.m3u8
-广州影视高清,http://125.94.172.2:8081/hls/36/index.m3u8
-广州法治,http://125.94.172.2:8081/hls/37/index.m3u8
-凤凰卫视,http://125.94.172.2:8081/hls/19/index.m3u8
-澳视澳门,http://125.94.172.2:8081/hls/73/index.m3u8
-星空卫视,http://125.94.172.2:8081/hls/18/index.m3u8
-TVB 翡翠台,http://125.94.172.2:8081/hls/20/index.m3u8
-TVB 明珠台,http://125.94.172.2:8081/hls/21/index.m3u8
-劲爆体育高清,http://125.94.172.2:8081/hls/68/index.m3u8
-广东体育,http://125.94.172.2:8081/hls/41/index.m3u8
-广东珠江,http://125.94.172.2:8081/hls/25/index.m3u8
-广东影视,http://125.94.172.2:8081/hls/31/index.m3u8
-有效期:  3天
+浙江卫视高清,http://A/ku9/js/cqyx.py?id=zhejiangHD
+
+上海卫视高清,http://A/ku9/js/cqyx.py?id=shanghaiHD
+
+深圳卫视高清,http://A/ku9/js/cqyx.py?id=shenzhenHD
+
+辽宁卫视高清,http://A/ku9/js/cqyx.py?id=liaoningHD
+
+天津卫视高清,http://A/ku9/js/cqyx.py?id=tianjinHD
+
+贵州卫视高清,http://A/ku9/js/cqyx.py?id=guizhouHD
+
+四川卫视高清,http://A/ku9/js/cqyx.py?id=sichuanHD
+
+云南卫视高清,http://A/ku9/js/cqyx.py?id=yunnanSD
+
+东南卫视高清,http://A/ku9/js/cqyx.py?id=dongnanHD
+
+黑龙江卫视高清,http://A/ku9/js/cqyx.py?id=heilongjiangHD
+
+安徽卫视高清,http://A/ku9/js/cqyx.py?id=anhuiSD
+
+河北卫视高清,http://A/ku9/js/cqyx.py?id=hebeiSD
 【河南】周口电信酒店源
 周口新闻综合高清,http://61.163.181.78:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 河南都市高清,http://61.163.181.78:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
