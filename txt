@@ -19,7 +19,6 @@
 浙江教育科技,http://123.159.126.196:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江新闻,http://123.159.126.196:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江少儿,http://123.159.126.196:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江民生休闲,http://123.159.126.196:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 有效期：6天
 【湖南】益阳联通酒店源
 南县综合,http://183.215.134.239:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -41,9 +40,9 @@
 山东文旅高清,http://221.0.78.26:881/hls/50219/index.m3u8
 有效期：33天
 【浙江】绍兴联通酒店源
-丽水新闻综合高清,http://122.246.203.117:8081/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0
-杭州生活,http://122.246.203.117:8081/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-iOT爱旅行,http://122.246.203.117:8081/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+丽水新闻综合高清,http://122.246.203.117:8081/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0
+杭州生活,http://122.246.203.117:8081/tsfile/live/10211_1.m3u8?key=txiptv&playlive=0&authid=0
+iOT爱旅行,http://122.246.203.117:8081/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 有效期：4天
 EYE戲劇,https://Smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 東森新聞,https://Smart.pendy.dpdns.org/Smart.php?id=ettvnews
