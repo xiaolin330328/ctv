@@ -17,8 +17,6 @@
 浙江钱江,http://123.159.126.196:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江经济生活,http://123.159.126.196:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江教育科技,http://123.159.126.196:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江新闻,http://123.159.126.196:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江少儿,http://123.159.126.196:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 有效期：6天
 【湖南】益阳联通酒店源
 南县综合,http://183.215.134.239:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
