@@ -13,8 +13,6 @@ http://113.227.234.50:9002/hls/59/index.m3u8
 CGTN纪录频道,http://113.227.234.50:9002/hls/68/index.m3u8
 版本,http://113.227.234.50:9002/hls/69/index.m3u8
 西班牙语,http://113.227.234.50:9002/hls/70/index.m3u8
-阿拉伯语
-copy to clip
 http://113.227.234.50:9002/hls/71/index.m3u8
 法语频道,http://113.227.234.50:9002/hls/72/index.m3u8
 CCTV4中文国际欧洲,http://113.227.234.50:9002/hls/73/index.m3u8
@@ -23,7 +21,7 @@ CCTV4中文国际美洲,http://113.227.234.50:9002/hls/74/index.m3u8
 CHC动作电影,http://113.227.234.50:9002/hls/76/index.m3u8
 CHC影迷电影,http://113.227.234.50:9002/hls/77/index.m3u8
 CHC家庭影院,http://113.227.234.50:9002/hls/78/index.m3u8
-
+陕西卫视,http://118.250.103.43:8082/hls/42/index.m3u8
 龙港综合,https://stream.iptv-search.com/main.php?id=%E9%BE%99%E6%B8%AF%E7%BB%BC%E5%90%88&t=1753977057&token=595f04d9a331870dc0eaf40865d0b62a
 瑞安新闻综合,https://stream.iptv-search.com/main.php?id=%E7%91%9E%E5%AE%89%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&t=1753977057&token=b19db1d24b9ff3c79b68ffeb50ecfc7e
 
