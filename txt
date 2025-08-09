@@ -24,7 +24,9 @@ CHC家庭影院,http://113.227.234.50:9002/hls/78/index.m3u8
 陕西卫视,http://118.250.103.43:8082/hls/42/index.m3u8
 龙港综合,https://stream.iptv-search.com/main.php?id=%E9%BE%99%E6%B8%AF%E7%BB%BC%E5%90%88&t=1753977057&token=595f04d9a331870dc0eaf40865d0b62a
 瑞安新闻综合,https://stream.iptv-search.com/main.php?id=%E7%91%9E%E5%AE%89%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&t=1753977057&token=b19db1d24b9ff3c79b68ffeb50ecfc7e
-
+深圳电视剧频道,http://113.100.73.223:8899/udp/239.77.1.7:5146
+深圳电视剧频道高清,http://113.100.73.223:8899/udp/239.77.1.177:5146
+深圳电视剧频道高清,http://113.100.73.223:8899/udp/239.77.1.125:5146
 【浙江】杭州电信酒店源
 杭州综合,http://123.159.126.196:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 杭州明珠,http://123.159.126.196:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
