@@ -1,6 +1,64 @@
 我T2
 温州新闻综合,https://stream.iptv-search.com/main.php?id=%E6%B8%A9%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&t=1753977057&token=28a976f3933447ac4837dbcd6cd208a6
 三立台湾,https://stream.iptv-search.com/main.php?id=%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE&t=1753977057&token=0434b979ad4e606265b4174a06227da2
+http://113.227.234.50:9002/hls/59/index.m3u8
+高尔夫·网球
+copy to clip
+http://113.227.234.50:9002/hls/60/index.m3u8
+风云剧场
+copy to clip
+http://113.227.234.50:9002/hls/61/index.m3u8
+风云足球
+copy to clip
+http://113.227.234.50:9002/hls/62/index.m3u8
+风云音乐
+copy to clip
+http://113.227.234.50:9002/hls/63/index.m3u8
+风云台球
+copy to clip
+http://113.227.234.50:9002/hls/64/index.m3u8
+电视指南
+copy to clip
+http://113.227.234.50:9002/hls/65/index.m3u8
+梨园
+copy to clip
+http://113.227.234.50:9002/hls/66/index.m3u8
+英语频道
+copy to clip
+http://113.227.234.50:9002/hls/67/index.m3u8
+CGTN纪录频道
+copy to clip
+http://113.227.234.50:9002/hls/68/index.m3u8
+俄语频道
+copy to clip
+http://113.227.234.50:9002/hls/69/index.m3u8
+西班牙语
+copy to clip
+http://113.227.234.50:9002/hls/70/index.m3u8
+阿拉伯语
+copy to clip
+http://113.227.234.50:9002/hls/71/index.m3u8
+法语频道
+copy to clip
+http://113.227.234.50:9002/hls/72/index.m3u8
+CCTV4中文国际欧洲
+copy to clip
+http://113.227.234.50:9002/hls/73/index.m3u8
+CCTV4中文国际美洲
+copy to clip
+http://113.227.234.50:9002/hls/74/index.m3u8
+欢笑剧场4K
+copy to clip
+http://113.227.234.50:9002/hls/75/index.m3u8
+CHC动作电影
+copy to clip
+http://113.227.234.50:9002/hls/76/index.m3u8
+CHC影迷电影
+copy to clip
+http://113.227.234.50:9002/hls/77/index.m3u8
+CHC家庭影院
+copy to clip
+http://113.227.234.50:9002/hls/78/index.m3u8
 
 龙港综合,https://stream.iptv-search.com/main.php?id=%E9%BE%99%E6%B8%AF%E7%BB%BC%E5%90%88&t=1753977057&token=595f04d9a331870dc0eaf40865d0b62a
 瑞安新闻综合,https://stream.iptv-search.com/main.php?id=%E7%91%9E%E5%AE%89%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&t=1753977057&token=b19db1d24b9ff3c79b68ffeb50ecfc7e
