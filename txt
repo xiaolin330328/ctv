@@ -69,7 +69,6 @@ CCTV-10高清,http://nas.xlnas.com:4022/udp/239.93.1.28:5140
 CCTV-11高清,http://nas.xlnas.com:4022/udp/239.93.0.102:5140
 CCTV-12高清,http://nas.xlnas.com:4022/udp/239.93.1.30:8124
 CCTV-13高清,http://nas.xlnas.com:4022/udp/239.93.0.66:5140
-CCTV-少儿高清,http://nas.xlnas.com:4022/udp/239.93.1.29:6000
 CCTV-15高清,http://nas.xlnas.com:4022/udp/239.93.0.103:5140
 CCTV-17高清,http://nas.xlnas.com:4022/udp/239.93.0.92:5140
 SCTV-6高清,http://nas.xlnas.com:4022/udp/239.93.1.144:5140
