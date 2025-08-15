@@ -1,4 +1,17 @@
 我T
+浙江卫视,http://sh.lnott.top:880/dx32.m3u8
+浙江卫视,http://171.120.111.8:9003/hls/49/index.m3u8
+浙江卫视,http://123.52.19.202:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://118.81.251.190:9003/hls/49/index.m3u8
+浙江卫视,http://221.225.54.138:60000/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://111.14.181.15:9901/tsfile/live/0124_1.m3u8
+浙江卫视,http://112.123.217.208:85/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://112.122.32.151:85/tsfile/live/1068_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江温州,http://hbhyjq.ufyct.com:1088/hls/79/index.m3u8
+浙江卫视,http://ak6668768.zicp.io:8828/live1031.m3u8
+浙江卫视,http://219.156.17.223:8888/hls/30/index.m3u8
+浙江卫视,http://175.22.226.131:888/hls/37/index.m3u8
+浙江卫视,http://123.162.97.13:8888/hls/25/index.m3u8
 广西电信
 卫,http://222.218.215.149:8088/rtp/239.81.0.250:4056	 
 卫视,http://qquu.bid:8088/rtp/239.81.0.114:4056	
