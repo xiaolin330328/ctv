@@ -7,9 +7,13 @@ CCTV13,http://cdn3.101.qzz.io/163189/cctv13
 CCTV4,http://cdn3.101.qzz.io/163189/cctv4
 深圳卫视4K,http://cdn3.101.qzz.io/163189/szws4k
 湖南卫视,http://cdn3.101.qzz.io/163189/hnws
-广东卫视,http://cdn3.101.qzz.io/163189/gdhd
-浙江卫视,http://cdn3.101.qzz.io/163189/zjtv
-
+广东卫视,http://cdn3.101.qzz.io/163189/gdws
+浙江卫视,http://cdn3.101.qzz.io/163189/zjws
+CCTV6,http://cdn3.101.qzz.io/163189/cctv6
+深圳卫视,http://cdn3.101.qzz.io/163189/szws
+北京卫视,http://cdn3.101.qzz.io/163189/bjws
+江苏卫视,http://cdn3.101.qzz.io/163189/jsws
+天津卫视,http://cdn3.101.qzz.io/163189/tjws
 
 上海新闻频道,http://114.95.208.163:8888/rtp/239.45.3.209:5140
 上海都市,http://114.95.208.163:8888/rtp/239.45.3.236:5140
