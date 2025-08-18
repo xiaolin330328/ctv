@@ -4,11 +4,11 @@ CCTV13,http://cdn3.101.qzz.io/163189/cctv13
 深圳财经生活,http://cdn3.101.qzz.io/163189/szcjsh
 第一财经,http://cdn3.101.qzz.io/163189/dycj
 五星体育,http://cdn3.101.qzz.io/163189/wxty
-CCTV13,http://cdn3.101.qzz.io/163189/cctv4
+CCTV4,http://cdn3.101.qzz.io/163189/cctv4
 深圳卫视4K,http://cdn3.101.qzz.io/163189/szws4k
-深圳财经生活,http://cdn3.101.qzz.io/163189/hnws
-第一财经,http://cdn3.101.qzz.io/163189/gdhd
-五星体育,http://cdn3.101.qzz.io/163189/zjtv
+湖南卫视,http://cdn3.101.qzz.io/163189/hnws
+广东卫视,http://cdn3.101.qzz.io/163189/gdhd
+浙江卫视,http://cdn3.101.qzz.io/163189/zjtv
 
 
 上海新闻频道,http://114.95.208.163:8888/rtp/239.45.3.209:5140
