@@ -5,8 +5,6 @@ CCTV13,http://cdn3.101.qzz.io/163189/cctv13
 第一财经,http://cdn3.101.qzz.io/163189/dycj
 五星体育,http://cdn3.101.qzz.io/163189/wxty
 【云南】e玉溪APP
-电视,http://ip:port/newlive/live/hls/1/live.m3u8
-少儿,http://ip:port/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 不是都,http://120.202.94.181:9446/tsfile/live/1002_1.m3u8
 东兰综合,http://rtmp.gdlive.gdmain.com/live/02924925.flv
 都安综合,http://rtmp.gdlive.gdmain.com/live/lgo97185.flv
