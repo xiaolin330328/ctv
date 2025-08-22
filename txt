@@ -1,4 +1,39 @@
 我T2.
+今日影视代理：
+凤凰卫视中文台,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
+凤凰卫视资讯台,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
+凤凰卫视香港台,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
+TVB翡翠台,http://t.061899.xyz/tl/js/js.php?id=tvbfct
+TVB无线新闻台,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
+TVB Plus,http://t.061899.xyz/tl/js/js.php?id=tvbplus
+TVB明珠台,http://t.061899.xyz/tl/js/js.php?id=tvbmzt
+香港有线新闻台,http://t.061899.xyz/tl/js/js.php?id=xgyxxwt
+香港有线18台,http://t.061899.xyz/tl/js/js.php?id=18xgyxt
+香港有线18台(备),http://t.061899.xyz/tl/js/js.php?id=18xgyxtb
+NOW直播台,http://t.061899.xyz/tl/js/js.php?id=nowzbt
+NOW新闻台,http://t.061899.xyz/tl/js/js.php?id=nowxwt
+NOW财经台,http://t.061899.xyz/tl/js/js.php?id=nowcjt
+ViuTV,http://t.061899.xyz/tl/js/js.php?id=viutv
+ViuTV6,http://t.061899.xyz/tl/js/js.php?id=6viutv
+HOY国际财经台,http://t.061899.xyz/tl/js/js.php?id=hoygjcjt
+HOY资讯台,http://t.061899.xyz/tl/js/js.php?id=hoyzxt
+HOY TV,http://t.061899.xyz/tl/js/js.php?id=hoytv
+港台电视31,http://t.061899.xyz/tl/js/js.php?id=31gtds
+港台电视32,http://t.061899.xyz/tl/js/js.php?id=32gtds
+HBO HD,http://t.061899.xyz/tl/js/js.php?id=hbohd
+好莱坞电影,http://t.061899.xyz/tl/js/js.php?id=hlwdy
+Discovery,http://t.061899.xyz/tl/js/js.php?id=discovery
+影迷數位電影台,http://t.061899.xyz/tl/js/js.php?id=ymswdyt
+AMC电影台,http://t.061899.xyz/tl/js/js.php?id=amcdyt
+靖天电影台,http://t.061899.xyz/tl/js/js.php?id=jtdyt
+龙华电影,http://t.061899.xyz/tl/js/js.php?id=lhdy
+采昌影剧,http://t.061899.xyz/tl/js/js.php?id=ccyj
+民视影剧,http://t.061899.xyz/tl/js/js.php?id=msyj
+龙华经典,http://t.061899.xyz/tl/js/js.php?id=lhjd
+龙华戏剧,http://t.061899.xyz/tl/js/js.php?id=lhxj
+龙华日韩,http://t.061899.xyz/tl/js/js.php?id=lhrh
+龙华偶像,http://t.061899.xyz/tl/js/js.php?id=lhox
+龙华卡通,http://t.061899.xyz/tl/js/js.php?id=lhkt
 index.m3u8
 山东卫视,https://zby.130519.xyz/PLTV/11/224/3221225733/index.m3u8
 东南卫视,https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
