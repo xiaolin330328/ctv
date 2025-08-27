@@ -1,4 +1,5 @@
 我T2.
+卫视,http://183.161.57.99:55555/tsfile/live/0122_1.m3u8?key=txiptv
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -530,6 +531,7 @@ SCTV-科教高清,http://nas.xlnas.com:4022/udp/239.93.42.44:5140
 深圳电视剧频道高清,http://113.100.73.223:8899/udp/239.77.1.177:5146
 深圳电视剧频道高清,http://113.100.73.223:8899/udp/239.77.1.125:5146
 【浙江】杭州电信酒店源
+
 杭州综合,http://123.159.126.196:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 杭州明珠,http://123.159.126.196:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 杭州生活,http://123.159.126.196:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
