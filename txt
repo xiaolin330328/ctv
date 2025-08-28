@@ -6,6 +6,7 @@
 金坛综合,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
 金坛广播,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_89.m3u8
 卫视,http://183.161.57.97:55555/tsfile/live/0122_1.m3u8?key=txiptv
+广东卫视,https://123.m3u?tl=gdws
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
