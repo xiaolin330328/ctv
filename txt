@@ -1,4 +1,10 @@
 我T2.
+【甘肃】中国定西官方
+定西综合,http://v4-33944598bb20d6780a8d3ee291f25ec5.livehwc4.com/play.kankanlive.com/live/1745232061100288.m3u8
+定西文旅,http://v4-33944598bb20d6780a8d3ee291f25ec5.livehwc4.com/play.kankanlive.com/live/1745232082475287.m3u8
+【江苏】看金坛APP
+金坛综合,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
+金坛广播,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_89.m3u8
 卫视,http://183.161.57.97:55555/tsfile/live/0122_1.m3u8?key=txiptv
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
