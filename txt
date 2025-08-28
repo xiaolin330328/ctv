@@ -1,5 +1,5 @@
 我T2.
-卫视,http://183.161.57.99:55555/tsfile/live/0122_1.m3u8?key=txiptv
+卫视,http://183.161.57.97:55555/tsfile/live/0122_1.m3u8?key=txiptv
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -135,7 +135,6 @@ CCTV13,http://cdn3.101.qzz.io/163189/cctv13
 东方卫视,http://114.95.208.163:8888/rtp/239.45.3.146:5140	
 上海教育,http://114.95.208.163:8888/rtp/239.45.0.13:5140
 上海外语,http://114.95.208.163:8888/rtp/239.45.1.127:5140
-游戏风云,http://114.95.208.163:8888/rtp/239.45.3.131:5140
 纪实人文,http://114.95.208.163:8888/rtp/239.45.3.212:5140
 东方影视,http://114.95.208.163:8888/rtp/239.45.3.237:5140
 第一财经,http://114.95.208.163:8888/rtp/239.45.3.211:5140
