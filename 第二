@@ -1,4 +1,9 @@
- 厦门卫视,http://api.kkitv.itv888.cn:8080/hls/9bc9p47rpbq/index.m3u8 
+
+澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
+澳门体育,http://cdn6.163189.xyz/163189/amty
+澳门综艺,http://cdn6.163189.xyz/163189/amzy
+厦门卫视,http://api.kkitv.itv888.cn:8080/hls/9bc9p47rpbq/index.m3u8 
 厦门卫视,http://36.5.87.102:8686/rtp/238.1.78.246:7840 
 厦门卫视,http://sh.lnott.top:880/dx48.m3u8
 厦门卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226008/index.m3u8 
