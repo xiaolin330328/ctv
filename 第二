@@ -50,7 +50,6 @@ cctv1,http://183.129.255.66:8480/hls/1/index.m3u8
 48,http://183.129.255.66:8480/hls/48/index.m3u8
 49,http://183.129.255.66:8480/hls/49/index.m3u8
 50,http://183.129.255.66:8480/hls/50/index
-
 余姚,#genre#
 1.http://223.95.198.3:8000/hls/1/index.m3u8
 2.http://223.95.198.3:8000/hls/2/index.m3u8
