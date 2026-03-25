@@ -219,8 +219,6 @@ CHC家庭影院,http://119.166.170.23:4004/rtp/239.253.254.152:8000
 
 铜陵教育科技,https://gnhls.qingmei.tv/live/tlkjpd.m3u8?volcTime=1775441952&volcSecret=ca7db27034394a2903c5a1a90da03ed9
 铜陵新闻综合,https://p8.vzan.com/slowlive/536089074155663092/live.m3u8
-河北|张家口新闻综合,http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
-河北|张家口公共,http://nlive.zjkgdcs.com:8091/live/zjktv2.m3u8
 杭州电信,#genre#
 cctv1,http://183.129.255.66:8480/hls/1/index.m3u8 
 cctv2,http://183.129.255.66:8480/hls/2/index.m3u8 
@@ -325,7 +323,7 @@ cctv2,http://183.129.255.66:8480/hls/2/index.m3u8
 50,http://223.95.198.3:8000/hls/50/index.m3u8 
 51,http://223.95.198.3:8000/hls/51/index.m3u8 
 52,http://223.95.198.3:8000/hls/52/index.m3u8 
-浙江宁波移动#genre#
+浙江宁波移动,#genre#
 组播9店2026年3月18日 02:28
 CCTV-1,http://223.95.198.3:8000/hls/1/index.m3u8
 CCTV-2,http://223.95.198.3:8000/hls/2/index.m3u8
@@ -380,7 +378,8 @@ NBTV-2,http://223.95.198.3:8000/hls/49/index.m3u8
 浙江民生,http://223.95.198.3:8000/hls/51/index.m3u8
 浙江少儿,http://223.95.198.3:8000/hls/52/index.m3u8
 
-广西南宁酒店源,#genre# #超稳定，几个月还没挂 励志客 励志客 组播9店源 2026年2月4日
+广西南宁酒店源,#genre# 
+超稳定几个月还没挂 励志客 励志客 组播9店源 2026年2月4日
 CCTV1-综合,http://36.136.38.87:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV2-财经,http://36.136.38.87:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
