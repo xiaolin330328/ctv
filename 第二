@@ -3,7 +3,10 @@ TVB星河,http://o11.163189.xyz/stream/live/tvbxh/
 
 TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe/
 
-
+cctv5,http://129.211.14.102:25000/ysp.php?id=cctv5
+cctv1,http://129.211.14.102:25000/ysp.php?id=cctv1
+江苏卫视,http://129.211.14.102:25000/ysp.php?id=jsws
+浙江卫视,http://129.211.14.102:25000/ysp.php?id=zjws
 铜陵教育科技,https://gnhls.qingmei.tv/live/tlkjpd.m3u8?volcTime=1775441952&volcSecret=ca7db27034394a2903c5a1a90da03ed9
 铜陵新闻综合,https://p8.vzan.com/slowlive/536089074155663092/live.m3u8
 杭州电信,#genre#
