@@ -6,13 +6,13 @@ CCTV17超清[1920*1080],http://123.6.25.164/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G
 CCTV6超清[1920*1080],http://123.6.25.164/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/CCTV-6/CCTV-6.m3u8?p=GITV&area=JS_CMCC_CP
 CCTV8超清[1920*1080],http://123.6.25.164/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-8/G_CCTV-8.m3u8?p=GITV&area=JS_CMCC_CP
 CCTV14高清[1920*1080],http://123.6.25.164/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-14/G_CCTV-14.m3u8?p=GITV&area=JS_CMCC_CP
-CCTV15高清[1920*1080],http://123.6.25.164/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-15-/G_CCTV-15.m3u8?p=GITV&area=JS_CMCC_CP
+CCTV15高清[1920*1080],http://123.6.25.164/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-15/G_CCTV-15.m3u8?p=GITV&area=JS_CMCC_CP
 CCTV16超清[1920*1080],http://123.6.25.164/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8?p=GITV&area=JS_CMCC_CP
 江西卫视超清[1920*1080],http://123.6.25.164/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_JIANGXI-CQ/G_JIANGXI-CQ.m3u8?p=GITV&area=JS_CMCC_CP
 浙江卫视超清[1920*1080],http://123.6.25.164/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_ZHEJIANG/G_ZHEJIANG.m3u8?p=GITV&area=JS_CMCC_CP
 北京卫视超清[1920*1080],http://123.6.25.164/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_BEIJING/G_BEIJING.m3u8?p=GITV&area=JS_CMCC_CP
 东方卫视超清[1920*1080],http://123.6.25.164/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_DONGFANG/G_DONGFANG.m3u8?p=GITV&area=JS_CMCC_CP
-延边卫视超清[1920*1080],http://123.6.25.164/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_YANBIAN/G_YANBING.m3u8?p=GITV&area=JS_CMCC_CP
+延边卫视超清[1920*1080],http://123.6.25.164/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_YANBIAN/G_YANBIN.m3u8?p=GITV&area=JS_CMCC_CP
 宁夏卫视超清[1920*1080],http://123.6.25.164/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_NINGXIA/G_NINGXIA.m3u8?p=GITV&area=JS_CMCC_CP
 甘肃卫视超清[1920*1080],http://123.6.25.164/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_GANSG/G_GAUSU.m3u8?p=GITV&area=JS_CMCC_CP
 江苏休闲体育[1920*1080],http://123.6.25.164/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_JSTY/G_JSTY.m3u8?p=GITV&area=JS_CMCC_CP
@@ -257,7 +257,6 @@ CHC家庭影院,https://live.264788.xyz/channel/chcjiatingyingyuan?streamid=136f
 湖南卫视,http://183.237.240.235:808/hls/27/index.m3u8
 湖南卫视,http://173.208.212.130:8181/1080p/hnws.m3u8
 湖南卫视,http://173.208.212.130:8181/720p/hnws.m3u8
-东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 东方卫视,http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
