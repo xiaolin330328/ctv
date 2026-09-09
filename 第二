@@ -1365,20 +1365,13 @@ CCTV13,http://cdn3.101.qzz.io/163189/cctv13
 
 浙江组播源,#genre#
 《新上线组播》
-山西电信
-http://jyb7928.host:8066/udp/239.1.1.7:8007
-浙江联通
-http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.137:5140
-浙江电信
-http://zjhuct.icu:8889/udp/233.50.200.99:5140
-湖北电信
-http://alist.xicp.fun:52057/rtp/239.69.1.42:9892
-湖北电信
-http://www.ct123.online:8188/rtp/239.69.1.42:9892
-浙江电信
-http://guany.myds.me:25852/udp/233.50.201.100:5140
-陕西电信
-http://tiger81.i234.me:8888/rtp/239.112.205.59:5140
+山西电信,http://jyb7928.host:8066/udp/239.1.1.7:8007
+浙江联通,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.137:5140
+浙江电信,http://zjhuct.icu:8889/udp/233.50.200.99:5140
+湖北电信,http://alist.xicp.fun:52057/rtp/239.69.1.42:9892
+湖北电信,http://www.ct123.online:8188/rtp/239.69.1.42:9892
+浙江电信,http://guany.myds.me:25852/udp/233.50.201.100:5140
+陕西电信,http://tiger81.i234.me:8888/rtp/239.112.205.59:5140
 【浙江】杭州联通
 杭州综合高清,http://jellyfin.eversouthhangzhou.com.cn:8188/udp/233.50.201.173:5140
 杭州明珠高清,http://jellyfin.eversouthhangzhou.com.cn:8188/udp/233.50.201.174:5140
